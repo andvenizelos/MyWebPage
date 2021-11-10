@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#admin'
+    url: '#content/authors/'  
     weight: 10
   - name: Posts
     url: '#posts'
