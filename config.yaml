@@ -65,6 +65,6 @@ related:
   toLower: true
   indices:
     - name: tags
-      weight: 100
+      weight: 10
     - name: categories
       weight: 70
