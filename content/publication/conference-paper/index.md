@@ -41,6 +41,6 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Breast Cancer
 title: Olaparib monotherapy as primary treatment in unselected triple negative breast cancer
-url_pdf: '/static/uploads/PaperI.pdf'
+url_pdf: 'uploads/PaperI.pdf'
 
 ---

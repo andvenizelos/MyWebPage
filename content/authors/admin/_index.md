@@ -1,6 +1,6 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include genomic alterations and subclonal evolution dynamics in tumours, as well as the genomic profiling of a hitherto understudied cancer type, gastroenteropancreatic neuroendocrine carcinomas (NECs).
+  
 education:
   courses:
   - course: PhD in Cancer Genomics
