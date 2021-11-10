@@ -20,9 +20,27 @@ url_slides: ""
 url_video: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Background: The antitumor efficacy of PARP inhibitors (PARPi) for breast cancer patients harboring germline BRCA1/2
+(gBRCA1/2) mutations is well established. While PARPi monotherapy was ineffective in patients with metastatic triple
+negative breast cancer (TNBC) wild type for BRCA1/2, we hypothesized that PARPi may be effective in primary TNBCs
+without previous chemotherapy exposure.
+Patients and methods: In the phase II PETREMAC trial, patients with primary TNBC >2 cm received olaparib for up to
+10 weeks before chemotherapy. Tumor biopsies collected before and after olaparib underwent targeted DNA
+sequencing (360 genes) and BRCA1 methylation analyses. In addition, BRCAness (multiplex ligation-dependent probe
+amplification), PAM50 gene expression, RAD51 foci, tumor-infiltrating lymphocytes (TILs) and PD-L1 analyses were
+performed on pretreatment samples.
+Results: The median pretreatment tumor diameter was 60 mm (range 25-112 mm). Eighteen out of 32 patients
+obtained an objective response (OR) to olaparib (56.3%). Somatic or germline mutations affecting homologous
+recombination (HR) were observed in 10/18 responders [OR 55.6%, 95% confidence interval (CI) 33.7-75.4]
+contrasting 1/14 non-responders (OR 7.1%; CI 1.3-31.5, P ¼ 0.008). Among tumors without HR mutations, 6/8
+responders versus 3/13 non-responders revealed BRCA1 hypermethylation (P ¼ 0.03). Thus, 16/18 responders
+(88.9%, CI 67.2-96.9), in contrast to 4/14 non-responders (28.6%, CI 11.7-54.7, P ¼ 0.0008), carried HR mutations
+and/or BRCA1 methylation. Excluding one gPALB2 and four gBRCA1/2 mutation carriers, 12/14 responders (85.7%,
+CI 60.1-96.0) versus 3/13 non-responders (23.1%, CI 8.2-50.3, P ¼ 0.002) carried somatic HR mutations and/or
+BRCA1 methylation. In contrast to BRCAness signature or basal-like subtype, low RAD51 scores, high TIL or high PDL1
+expression all correlated to olaparib response.
+Conclusion: Olaparib yielded a high clinical response rate in treatment-naïve TNBCs revealing HR deficiency, beyond
+germline HR mutations
 
 Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
 
