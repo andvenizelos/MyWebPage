@@ -21,7 +21,7 @@ abstract: The antitumor efficacy of PARP inhibitors (PARPi) for breast cancer pa
   expression all correlated to olaparib response.
   Olaparib yielded a high clinical response rate in treatment-naïve TNBCs revealing HR deficiency, beyond germline HR mutations.
 authors:
-- H.P.Eikesdal, S.Yndestad, A.Elzawahry, A.LlopGuevara, B.Gilje, E.S.Blix, H.Espelid, S.Lundgren, J.Geisler, G.Vagstad, A.Venizelos, L. Minsaas, B. Leirvaag, E. G. Gudlaugsson, O. K. Vintermyr, H. S. Aase, T. Aas, J. Balmaña, V. Serra, E. A. M. Janssen, S. Knappskog & P. E. Lønning
+- H.P.Eikesdal, S.Yndestad, A.Elzawahry, A.LlopGuevara, B.Gilje, E.S.Blix, H.Espelid, S.Lundgren, J.Geisler, G.Vagstad, A.Venizelos, et.al.
 - 
 date: "2020-11-27T00:00:00Z"
 doi: ""
