@@ -26,38 +26,21 @@ authors:
 date: "2020-11-27T00:00:00Z"
 doi: ""
 featured: yes
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: Link
+  url: https://www.sciencedirect.com/science/article/pii/S0923753420431643
 projects:
 - internal-project
-publication: In *Source Themes Conference*
-publication_short: In *Annals of Oncology*
+publication: '*Annlas of Oncology*'
+publication_short: ""
 publication_types:
-- "1"
+- "2"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
-- Source Themes
+- Breast Cancer
 title: Olaparib monotherapy as primary treatment in unselected triple negative breast cancer
-url_code: https://www.sciencedirect.com/science/article/pii/S0923753420431643
-url_dataset: '#'
 url_pdf: '/static/uploads/PaperI.pdf'
 
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
