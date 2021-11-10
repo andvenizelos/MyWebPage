@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: andreas.venizleos@yahoo.com
+email: andreas.venizelos@yahoo.com
 phone: +47 409 79 851
 address:
   street: Jonas Lies vei 65
@@ -35,7 +35,7 @@ coordinates:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Follow me on Twitter
     link: 'https://twitter.com/andvenizelos'
 
 

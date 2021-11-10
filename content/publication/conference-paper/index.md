@@ -31,7 +31,7 @@ links:
   url: https://www.sciencedirect.com/science/article/pii/S0923753420431643
 projects:
 - internal-project
-publication: '*Annlas of Oncology*'
+publication: '*Annals of Oncology*'
 publication_short: ""
 publication_types:
 - "2"

@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/andvenizelos
-summary: An example of using the in-built project page.
+summary: Personalized therapy of breast cancer
 tags:
 
 title: Petremac Project

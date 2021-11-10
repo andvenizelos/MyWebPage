@@ -22,7 +22,7 @@ links:
 - name: Link
   url: https://erc.bioscientifica.com/view/journals/erc/aop/erc-21-0152/erc-21-0152.xml
 projects:
-- external-project
+- internal-project2
 publication: '*Endocrine Related Cancer*'
 publication_short: ""
 publication_types:

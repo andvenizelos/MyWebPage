@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/andvenizelos
-summary: An example of using the in-built project page.
+summary: State of the art and knowledge needs
 tags:
 
 title: Neuroendocrine Carcinomas Project
