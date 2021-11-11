@@ -1,20 +1,17 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
-  convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
-  faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
-  eu, pulvinar tempor diam.
+abstract: Subclonal evolution during primary breast cancer treatment is largely unexplored. We performed whole exome sequencing of tumor biopsies extracted before and after sequential epirubicin and docetaxel in 51 patients included in a neoadjuvant phase II trial. There was a profound and differential redistribution of subclones during epirubicin and docetaxel treatment. While trunk mutations and main subclones persisted, smaller subclones frequently appeared or disappeared during treatment. Reassessment of raw data, beyond formal mutation calling, indicated that the majority of subclones appearing during treatment were present in pretreatment breast cancers below conventional detection limits. No single mutations or mutational profiles predictive of treatment response were identified. A significant drop in tumor mutational burden (TMB) was observed in epirubicin responders (p=0.043), whereas subsequent docetaxel treatment decreased TMB among non-responders (p=0.006). Copy number analysis demonstrated specific genomic regions to be systematically lost or gained during treatment with each compound. 
 address:
-  city: Stanford
-  country: United States
-  postcode: "94305"
-  region: CA
-  street: 450 Serra Mall
+  city: Oslo
+  country: Norway
+  postcode: "2060"
+  region: Norway
+  street: Ravinevegen 15, Gardermoen
 all_day: false
 authors: []
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-event: Wowchemy Conference
-event_url: https://example.org
+date: "2020-11-18T13:00:00Z"
+date_end: "2020-11-18T15:00:00Z"
+event: Onkologisk Forum
+event_url: https://nbcg.no/
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -24,28 +21,13 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-location: Wowchemy HQ
+location: Scandic Hotel
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
-title: Example Talk
+title: Genomic evolution in primary breast cancers under sequential epirubicin and docetaxel monotherapy
 url_code: ""
 url_pdf: ""
-url_slides: ""
-url_video: ""
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
