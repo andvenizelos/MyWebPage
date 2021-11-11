@@ -1,18 +1,17 @@
 ---
-abstract: 10 minutes presentation, focusing on three aspects;
- academic background, research, available methods/competencies  
+abstract: Subclonal evolution during primary breast cancer treatment is largely unexplored. We performed whole exome sequencing of tumor biopsies extracted before and after sequential epirubicin and docetaxel in 51 patients included in a neoadjuvant phase II trial. There was a profound and differential redistribution of subclones during epirubicin and docetaxel treatment. While trunk mutations and main subclones persisted, smaller subclones frequently appeared or disappeared during treatment. Reassessment of raw data, beyond formal mutation calling, indicated that the majority of subclones appearing during treatment were present in pretreatment breast cancers below conventional detection limits. No single mutations or mutational profiles predictive of treatment response were identified. A significant drop in tumor mutational burden (TMB) was observed in epirubicin responders (p=0.043), whereas subsequent docetaxel treatment decreased TMB among non-responders (p=0.006). Copy number analysis demonstrated specific genomic regions to be systematically lost or gained during treatment with each compound.
 address:
-  city: Hurdal
+  city: Oslo
   country: Norway
-  postcode: "2090"
+  postcode: "2060"
   region: Norway
-  street: Skredderbakkvegen 9, Hurdal
+  street: Ravinevegen 15, Gardermoen
 all_day: false
 authors: []
-date: "2020-10-25T13:00:00Z"
-date_end: "2020-10-18T18:00:00Z"
-event: K.G. Jebsen Academy for young Medical Researchers
-event_url: https://www.ntnu.edu/kg-jebsen-academy/venizelos
+date: "2020-11-18T13:00:00Z"
+date_end: "2020-11-18T18:00:00Z"
+event: Onkologisk Forum - Norwegian Breast Cancer Group
+event_url: https://nbcg.no/
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -22,12 +21,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-location: Hurdalsjøen Hotel
+location: Scandic Hotel
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 tags: []
-title: K.G. Jebsen Center for Genome-Directed Therapy in Cancer
+title: Onkologisk Forum
 url_code: ""
 url_pdf: ""
 ---

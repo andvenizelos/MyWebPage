@@ -5,7 +5,7 @@ address:
   country: Norway
   postcode: "5021"
   region: Norway
-  street:Jonas Lies vei 65
+  street: Jonas Lies vei 65
 all_day: false
 authors: []
 date: "2022-01-27T13:00:00Z"
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-location: aukeland University Hospital
+location: Haukeland University Hospital
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
