@@ -29,6 +29,6 @@ publishDate: "2017-01-01T00:00:00Z"
 tags: []
 title: Trial Lecture - Thesis 
 url_code: ""
-url_pdf: ""
+url_pdf: "/uploads/Presentation_Trial.pdf"
 ---
 
