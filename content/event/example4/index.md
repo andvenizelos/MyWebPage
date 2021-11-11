@@ -10,7 +10,7 @@ address:
 all_day: false
 authors: []
 date: "2020-10-08T13:00:00Z"
-date_end: "2020-10-08T18:00:00Z"
+date_end: "2020-10-08T14:00:00Z"
 event: K.G. Jebsen Academy for young Medical Researchers
 event_url: https://www.uib.no/nye-doktorgrader/148028/brystkreft-under-kjemoterapi-og-nevroendokrine-karsinomer
 featured: false
@@ -27,7 +27,7 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 tags: []
-title: Trial Lecture
+title: Trial Lecture - Thesis 
 url_code: ""
 url_pdf: ""
 ---
