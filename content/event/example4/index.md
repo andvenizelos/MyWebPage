@@ -15,7 +15,7 @@ event: K.G. Jebsen Academy for young Medical Researchers
 event_url: https://www.uib.no/nye-doktorgrader/148028/brystkreft-under-kjemoterapi-og-nevroendokrine-karsinomer
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [*Inger Marie Løes*]'
   focal_point: Right
 links:
 - icon: twitter

@@ -15,7 +15,7 @@ event: K.G. Jebsen Academy for young Medical Researchers
 event_url: https://www.ntnu.edu/kg-jebsen-academy/venizelos
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [*Mari Løset*]'
   focal_point: Right
 links:
 - icon: twitter

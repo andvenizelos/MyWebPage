@@ -40,8 +40,8 @@ title: Dr. Andreas Venizelos
 
 Currently, I am a postdoctoral researcher in cancer genomics at the University of Bergen and Haukeland University hospital and an active member of Academy for Young Medical Researchers at K.G. Jebsen Center for Genome-Directed Therapy in Cancer.
 
-I am expertise in biomedical sciences (human genetics) with a solid theoretical, technical, and bioinformatics background in NGS sequencing technologies; data analysis, and interpretation.
+Due my strong passion for research, I took a wide variety of opportunities to work as a researcher on different occasions. Firstly, I worked in the Medical Oncogenetics Department, 401 Military Hospital of Athens. Then, I moved to Germany where I started working as a Senior Medical Technologist at Centogene, AG, Rostock, Berlin, Germany  (a big diagnostic company for rare diseases). I am expertise in biomedical sciences (human genomics) with a solid theoretical, technical, and bioinformatics background in NGS sequencing technologies; data analysis, and interpretation.
 
-I grew up in Athens but now I live in Bergen🇳🇴
+I grew up in Athens, but now I live in Bergen🇳🇴
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
