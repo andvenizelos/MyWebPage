@@ -33,7 +33,7 @@ social:
   link: https://github.com/andvenizelos
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/dr-andreas-venizelos-297802ab
+  link: https://linkedin.com/in/dr-andreas-venizelos-297802ab
 superuser: true
 title: Dr. Andreas Venizelos
 ---
