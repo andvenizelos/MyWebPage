@@ -17,7 +17,7 @@ highlight_name: true
 organizations:
 - name: University of Bergen, Haukeland University Hospital
   url: https://www.uib.no/
-role: CLINICAL SCIENTIST, POSDOCTORAL FELLOW @ UNIVERSITY OF BERGEN, HAUKELAND UNIVERSITY HOSPITAL
+role: CLINICAL SCIENTIST, POSTDOCTORAL FELLOW @ UNIVERSITY OF BERGEN, HAUKELAND UNIVERSITY HOSPITAL
 social:
 - icon: envelope
   icon_pack: fas
