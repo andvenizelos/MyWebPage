@@ -6,7 +6,7 @@ education:
   - course: PhD in Cancer Genomics
     institution: University of Bergen, Norway
     year: 2021
-  - course: M.Sc. in Moleclural Virology
+  - course: M.Sc. in Molecural Virology
     institution: University of Ioannina, Greece
     year: 2012
   - course: BSc in Biological Applications and Technology
