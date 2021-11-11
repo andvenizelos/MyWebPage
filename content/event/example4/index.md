@@ -9,8 +9,8 @@ address:
   street: Jonas Lies vei 65
 all_day: false
 authors: []
-date: "2020-10-08T13:00:00Z"
-date_end: "2020-10-08T14:00:00Z"
+date: "2021-10-08T13:00:00Z"
+date_end: "2021-10-08T14:00:00Z"
 event: K.G. Jebsen Academy for young Medical Researchers
 event_url: https://www.uib.no/nye-doktorgrader/148028/brystkreft-under-kjemoterapi-og-nevroendokrine-karsinomer
 featured: false

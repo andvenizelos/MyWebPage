@@ -8,8 +8,8 @@ address:
   street: Ravinevegen 15, Gardermoen
 all_day: false
 authors: []
-date: "2020-11-18T13:00:00Z"
-date_end: "2020-11-18T18:00:00Z"
+date: "2021-11-18T13:00:00Z"
+date_end: "2021-11-18T18:00:00Z"
 event: Onkologisk Forum - Norwegian Breast Cancer Group
 event_url: https://nbcg.no/
 featured: false
