@@ -11,7 +11,7 @@ authors: []
 date: "2021-11-18T13:00:00Z"
 date_end: "2021-11-18T18:00:00Z"
 event: Onkologisk Forum - Norwegian Breast Cancer Group
-event_url: https://nbcg.no/
+event_url: https://www.onkologiskforum.eu/program-2021/
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
