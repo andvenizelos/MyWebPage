@@ -10,7 +10,7 @@ address:
 all_day: false
 authors: []
 date: "2021-10-25T13:00:00Z"
-date_end: "2021-10-18T18:00:00Z"
+date_end: "2021-10-26T18:00:00Z"
 event: K.G. Jebsen Academy for young Medical Researchers
 event_url: https://www.ntnu.edu/kg-jebsen-academy/venizelos
 featured: false
