@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/andvenizelos
-summary: State of the art and knowledge needs
+summary: Genomic profiling of NECs
 tags:
 
 title: Neuroendocrine Carcinomas Project
