@@ -26,7 +26,7 @@ projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 tags: []
-title: Subclonal evolution dynamics in tumours from patients treated with sequential epirubicin and docetaxel monotherapy
+title: Tema Mamma Bergen
 url_code: ""
 url_pdf: ""
 ---
