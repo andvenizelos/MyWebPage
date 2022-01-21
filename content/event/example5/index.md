@@ -8,8 +8,8 @@ address:
   street: Jonas Lies vei 65
 all_day: false
 authors: []
-date: "2022-09-27T13:00:00Z"
-date_end: "2022-09-27T15:00:00Z"
+date: "2022-09-29T13:00:00Z"
+date_end: "2022-09-29T15:00:00Z"
 event: Tema Mamma Bergen
 event_url: https://www.uib.no/en/rs/clinicalmedicine.
 featured: false
