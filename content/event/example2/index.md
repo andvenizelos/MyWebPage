@@ -23,7 +23,7 @@ links:
   url: https://twitter.com/georgecushen
 location: Scandic Hotel
 projects:
-- internal-project
+- internal-project3
 publishDate: "2017-01-01T00:00:00Z"
 tags: []
 title: Onkologisk Forum
