@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/andvenizelos
-location: Haukeland University Hospital
+location: Clarion Hotel
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
