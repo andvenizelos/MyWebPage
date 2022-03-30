@@ -11,7 +11,7 @@ main:
     url: '#featured'
     weight: 20
   - name: Blog
-    url: courses/
+    url: blog/
     weight: 30
   - name: Projects
     url: '#projects'
