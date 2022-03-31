@@ -14,7 +14,7 @@ One of the most important lesson in R is filtering and cleaning up you data, in 
 
 ```{r, echo=FALSE}
 download_link(
-  link = "https://github.com/andvenizelos/MyWebPage/tree/main/Lessons/Encode_HMM_data.txt",
+  link = "https://github.com/andvenizelos/MyBlog_R_For_Biologists/blob/main/Tip.1/Encode_HMM_data.txt",
   button_label = "Download txt file",
   button_type = "danger",
   has_icon = TRUE,
