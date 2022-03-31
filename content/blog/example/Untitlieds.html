@@ -9,7 +9,6 @@ output: html
 <script src="/rmarkdown-libs/font-awesome/js/script.js"></script>
 
 
-<pre class="r"><code>library(downloadthis)</code></pre>
 <div id="downloading-data" class="section level2">
 <h2>Downloading Data</h2>
 <p>One of the most important lesson in R is filtering and cleaning up you data, in order to generate an easy to read and to handle dataset. First of all we need to import a dataset. There are many sources for publicly avaliable big data such as: <a href="https://genome.ucsc.edu/" class="uri">https://genome.ucsc.edu/</a> , <a href="https://www.ensembl.org/" class="uri">https://www.ensembl.org/</a>, <a href="https://www.encodeproject.org/" class="uri">https://www.encodeproject.org/</a>. I have already downloaded a dataset for you. You can download the <strong>txt file</strong> here:</p>
@@ -27,11 +26,14 @@ library(tm)</code></pre>
 </div>
 <div id="importing-data" class="section level2">
 <h2>Importing Data</h2>
-<p>Now we will go ahead to import our dataset. There are many ways to import a dataset depending on the file type and the size of the file. Here I am going to show you two ways of importing a dataset with the latter one to be preferred for larger datasets.</p>
-<p>::: {#method-1 .section .level3}
-### Method 1</p>
+<p>Now we will go ahead to import our dataset. There are many ways to import a dataset depending on the file type and the size of the file.
+First step is to navigate your console to your own directory with your folder containing the data below.
+Here I am going to show you two ways of importing a dataset with the latter one to be preferred for larger datasets.</p>
+<div id="method-1" class="section level3">
+<h3>Method 1</h3>
 <pre class="r"><code>filename &lt;- &quot;Encode_HMM_data.txt&quot;
 my_data &lt;- read.csv(filename, sep=&quot;\t&quot;, header=FALSE)</code></pre>
+</div>
 <div id="method-2" class="section level3">
 <h3>Method 2</h3>
 <pre class="r"><code>library(data.table)
@@ -61,7 +63,7 @@ my_data &lt;- fread(filename)</code></pre>
 <div id="select-columns" class="section level2">
 <h2>Select Columns</h2>
 <p>We can see that succesfully we have imported our dataset in R studio. It’s a dataframe with <em>571,339</em> rows and <em>9</em> columns. We will go ahead and we will select the first <em>4</em> columns from our data set and to ignore the rest of the columns. Again there are many ways of doing that. Here I can show you <em>2</em> ways :</p>
-<div id="method-1" class="section level3">
+<div id="method-1-1" class="section level3">
 <h3>Method 1</h3>
 <pre class="r"><code>my_data %&gt;% select(V1,V2,V3,V4)</code></pre>
 <pre><code>##           V1        V2        V3                V4
@@ -111,7 +113,7 @@ head(sorted_data)</code></pre>
 <div id="final-clean-up" class="section level2">
 <h2>Final Clean-Up</h2>
 <p>Now we have a more defined clean data set. However, there is a string including a number and an underscore as prefix in each character value of the column <em>Type</em>. Below again <em>2</em> ways to remove this string:</p>
-<div id="method-1-1" class="section level3">
+<div id="method-1-2" class="section level3">
 <h3>Method 1</h3>
 <pre class="r"><code>sorted_data$Type &lt;- gsub(&#39;[[:digit:]]+_&#39;,&#39;&#39;, sorted_data$Type)</code></pre>
 </div>

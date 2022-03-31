@@ -1,12 +1,13 @@
 ---
 header:
   caption: ""
-  image: "featured.jpg"
-  
 title: Blog
-type: page
-view: 1
+type: chapter
+view: 3
 ---
+
+<img src="example/featured.jpg" width="400" align = "right">
+
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
@@ -18,4 +19,8 @@ view: 1
   });
 </script>
 
-Here are some R tips and tricks:
+Let's start coding!! 
+Below I am sharing some cool R packages that I am using constantly for data 
+analysis as well as some R tips and tricks !!
+
+
