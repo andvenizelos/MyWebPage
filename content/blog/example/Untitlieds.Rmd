@@ -2,8 +2,10 @@
 date: "2022-03-30"
 linkTitle: Data Wrangling
 title: Basic Data Wrangling
-type: page
+type: book
+highlight: TRUE
 output: html
+weight: 10
 ---
 
 ```{r,warning=FALSE, message=FALSE, echo=FALSE}
@@ -111,3 +113,7 @@ head(sorted_data)
 
 
 And here you have it ! A final clean data set easy to read and work with.
+
+### Feel free to download the files from github: 
+
+<a id="raw-url" href="https://github.com/andvenizelos/MyBlog_R_For_Biologists/tree/main/Tip.1">Download FILES</a>
