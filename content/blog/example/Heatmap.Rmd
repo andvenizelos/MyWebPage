@@ -14,7 +14,7 @@ library(downloadthis)
 
 ## Downloading Data
 
-For this session we are going to utilise the dataset from the <https://encode.project.org/>.
+For this session we are going to utilize the dataset from the <https://encode.project.org/>.
 
 You can download the **txt file** here:
 
