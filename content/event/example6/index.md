@@ -28,6 +28,6 @@ publishDate: "2017-01-01T00:00:00Z"
 tags: []
 title: BiB conference - Poster Presentation
 url_code: ""
-url_pdf: ""
+url_pdf: "/uploads/Poster_BioinformaticsSolstrand.pdf"
 ---
 
