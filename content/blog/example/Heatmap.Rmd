@@ -5,7 +5,7 @@ title: How to create a Heatmap
 type: book
 highlight: TRUE
 output: html_document
-weight: 5
+weight: 30
 ---
 
 ```{r,warning=FALSE, message=FALSE, echo=FALSE}
@@ -44,7 +44,7 @@ library(tidyquant)
 
 ## Importing Data
 Navigate  your directory to your folder where you have saved the data set.
-Now we will go ahead to import our data set using the *fread* function..
+Now we will go ahead to import our data set using the *fread* function.
 
 ```{r, echo=FALSE, results='hide'}
 setwd("~/Documents/Running_Projects/MyWebPage/content/blog/example/")
