@@ -5,7 +5,7 @@ title: How to create a Heatmap
 type: book
 highlight: TRUE
 output: html_document
-weight: 10
+weight: 5
 ---
 
 ```{r,warning=FALSE, message=FALSE, echo=FALSE}
