@@ -49,8 +49,8 @@ glimpse(my_data)</code></pre>
 ## $ stop  &lt;int&gt; 10600, 11137, 11737, 11937, 12137, 14537, 20337, 22137, 22937, 2…
 ## $ type  &lt;chr&gt; &quot;Repetitive/CNV&quot;, &quot;Heterochrom/lo&quot;, &quot;Insulator&quot;, &quot;Weak_Txn&quot;, &quot;We…</code></pre>
 </div>
-<div id="split-data-frame" class="section level2">
-<h2>Split data frame</h2>
+<div id="split-the-data-frame" class="section level2">
+<h2>Split the data frame</h2>
 <p>We can now split our data frame by chromosome and type and apply a function summarizing the length for each type per chromosome using the <strong>ddply</strong> function from the <strong>plyr</strong> library.</p>
 <pre class="r"><code>my_data2 &lt;- ddply(my_data, .(type, chrom), summarise , no = length(type))
 glimpse(my_data2)</code></pre>
@@ -62,7 +62,7 @@ glimpse(my_data2)</code></pre>
 </div>
 <div id="pivot_longer-pivot_wider" class="section level2">
 <h2>Pivot_longer &amp; Pivot_wider</h2>
-<p><strong>pivot_longer()</strong> makes dataset <strong>longer</strong> by increasing the number of rows and decreasing the number of columns, whereas <strong>pivot_wider()</strong> is often utilized to tidy long data sets and often required for the purpose of the analysis (for examples creating a heatmap)</p>
+<p><strong>pivot_longer()</strong> makes dataset <strong>longer</strong> by increasing the number of rows and decreasing the number of columns, whereas <strong>pivot_wider()</strong> is often utilized to tidy long data sets and often required for the purpose of the analysis (for example creating a heatmap)</p>
 <pre class="r"><code>my_data_final &lt;- my_data2 %&gt;% group_by(type) %&gt;% 
   mutate(prop = no/sum(no)) %&gt;% 
   ungroup() %&gt;% 
