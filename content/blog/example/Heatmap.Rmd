@@ -66,7 +66,7 @@ my_data$type <- gsub('[[:digit:]]+_','',my_data$type) #removing the numbers and 
 glimpse(my_data)
 ```
 
-## Split data frame
+## Split the data frame
 We can now split our data frame by chromosome and type and apply a function summarizing the length for each type per chromosome using the **ddply** function from the **plyr** library.
 ```{r}
 my_data2 <- ddply(my_data, .(type, chrom), summarise , no = length(type))
@@ -75,7 +75,7 @@ glimpse(my_data2)
 ```
 
 ## Pivot_longer & Pivot_wider
-__pivot_longer()__ makes dataset **longer** by increasing the number of rows and decreasing the number of columns, whereas __pivot_wider()__ is often utilized to tidy long data sets and often required for the purpose of the analysis (for examples creating a heatmap)
+__pivot_longer()__ makes dataset **longer** by increasing the number of rows and decreasing the number of columns, whereas __pivot_wider()__ is often utilized to tidy long data sets and often required for the purpose of the analysis (for example creating a heatmap)
 
 ```{r}
 my_data_final <- my_data2 %>% group_by(type) %>% 
