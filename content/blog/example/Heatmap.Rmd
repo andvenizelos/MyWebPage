@@ -1,0 +1,127 @@
+---
+date: "2022-05-20"
+linkTitle: How to create a Heatmap
+title: How to create a Heatmap
+type: book
+highlight: TRUE
+output: html_document
+weight: 10
+---
+
+```{r,warning=FALSE, message=FALSE, echo=FALSE}
+library(downloadthis)
+```
+
+## Downloading Data
+
+For this session we are going to utilise the dataset from the <https://encode.project.org/>.
+
+You can download the **txt file** here:
+
+```{r, echo=FALSE}
+download_link(
+  link = "https://github.com/andvenizelos/MyBlog_R_For_Biologists/blob/main/Tip.1/Encode_HMM_data.txt",
+  button_label = "Download txt file",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
+## Install Packages and Loading Libraries
+
+First step is to install packages either from CRAN, Bioconductor or from Github and to load the libraries.
+
+```{r, warning=FALSE, message=FALSE}
+library(data.table)
+library(dplyr)
+library(tidyverse)
+library(plyr)
+library(scales)
+library(tidyquant)
+```
+
+## Importing Data
+Navigate  your directory to your folder where you have saved the data set.
+Now we will go ahead to import our data set using the fread command.
+
+```{r, echo=FALSE, results='hide'}
+setwd("~/Documents/Running_Projects/MyWebPage/content/blog/example/")
+filename <- "~/Documents/Running_Projects/MyWebPage/content/blog/example/Encode_HMM_data.txt"
+
+```
+
+```{r}
+my_data <- fread(filename)
+```
+
+## Data wrangling
+In order to have a clean data set we need to add column names and to remove the columns that are not needed for our final heatmap output.
+
+```{r}
+colnames(my_data)[1:4] <- c("chrom","start","stop","type")
+my_data <- my_data[,c(1:4)] #Keeping only the columns 1 to 4
+my_data$type <- gsub('[[:digit:]]+_','',my_data$type) #removing the numbers and underscores from our type column
+glimpse(my_data)
+```
+
+## Split data frame
+We can now split our data frame by chromosome and type and apply a function summarizing the length for each type per chromosome using the **ddply** function from the **plyr** library.
+```{r}
+my_data2 <- ddply(my_data, .(type, chrom), summarise , no = length(type))
+glimpse(my_data2)
+
+```
+
+## Pivot_longer & Pivot_wider
+__pivot_longer()__ makes dataset **longer** by increasing the number of rows and decreasing the number of columns, whereas __pivot_wider()__ is often utilized to tidy long data sets and often required for the purpose of the analysis (for examples creating a heatmap)
+
+```{r}
+my_data_final <- my_data2 %>% group_by(type) %>% 
+  mutate(prop = no/sum(no)) %>% 
+  ungroup() %>% 
+  pivot_wider(
+    id_cols = type,
+    names_from = chrom,
+    values_from = prop
+  ) %>% arrange(-`chr19`) %>% 
+  mutate(type = fct_reorder(type, `chr19`)) %>% 
+  pivot_longer(
+    cols = -type,
+    names_to = "chrom",
+    values_to = "prop"
+  )
+
+head(my_data_final)
+```
+
+## Creating a Heatmap
+
+Finally we are ready to generate our first heatmap! One way to do that is to use the **ggplot** library.
+
+```{r}
+heatmap <- my_data_final %>% 
+ggplot(aes(chrom, type)) +
+  geom_tile(aes(fill = prop)) +
+  geom_text(aes(label = scales::percent(prop, accuracy = 1)),
+            size = 3) +
+  scale_fill_gradient(low = "white",high = palette_light()[1]) +
+  labs(
+    title = "Percentage of each of the types per chromosome",
+    x = "Chromosomes",
+    y = "Type"
+  )+
+  theme_tq() +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    legend.position = "none",
+    plot.title = element_text(face = "bold"))
+    
+  
+
+    
+heatmap
+
+
+```
