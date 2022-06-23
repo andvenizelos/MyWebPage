@@ -12,7 +12,7 @@ weight: 10
 library(downloadthis)
 ```
 ## Downloading Data
-One of the most important lesson in R is  and cleaning up you data, in order to generate an easy to read and to handle dataset. First of all we need to import a dataset. There are many sources for publicly avaliable big data such as: <https://genome.ucsc.edu/> , <https://www.ensembl.org/>, <https://www.encodeproject.org/>. I have already downloaded a dataset for you. You can download the **txt file** here:
+One of the most important lesson in R is filtering and cleaning up you data, in order to generate an easy to read and to handle dataset. First of all we need to import a dataset. There are many sources for publicly avaliable big data such as: <https://genome.ucsc.edu/> , <https://www.ensembl.org/>, <https://www.encodeproject.org/>. I have already downloaded a dataset for you. You can download the **txt file** here:
 
 ```{r, echo=FALSE}
 download_link(
