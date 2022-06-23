@@ -46,8 +46,8 @@ library(fs)
 Navigate your directory to your folder where you have saved the data set. Now we will go ahead to import our data set using the fread command.
 
 ```{r, echo=FALSE, results='hide'}
-setwd("~/Documents/Running_Projects/MyWebPage/content/blog/example/")
-filename <- "~/Documents/Running_Projects/MyWebPage/content/blog/example/Encode_HMM_data.txt"
+setwd("~/Documents/MyWebPage/content/blog/example/")
+filename <- "~/Documents/MyWebPage/content/blog/example/Encode_HMM_data.txt"
 
 ```
 
@@ -71,7 +71,7 @@ glimpse(my_data)
 We can now create a new directory where we can save our *.csv* files.
 
 ```{r}
-new_directory <- "~/Documents/Running_Projects/MyWebPage/content/blog/example/my_csv_files/"
+new_directory <- "~/Documents/MyWebPage/content/blog/example/my_csv_files/"
 dir_create(new_directory)
 ```
 
@@ -80,7 +80,7 @@ dir_create(new_directory)
 We are now ready to split our data frame into multiple *.csv* files and we can save them under the directory **/my_csv_files**.
 
 ```{r, echo=TRUE, results='hide',warning=FALSE}
-setwd("~/Documents/Running_Projects/MyWebPage/content/blog/example/my_csv_files/")
+setwd("~/Documents/MyWebPage/content/blog/example/my_csv_files/")
 my_data %>%
     group_by(chrom) %>%
     group_split() %>%
@@ -96,7 +96,7 @@ my_data %>%
 We can do this in multiple ways, either using the **lapply** function after generatiing a list or the **map** function. Let's go ahead and use the first way :
 
 ```{r}
-setwd("~/Documents/Running_Projects/MyWebPage/content/blog/example/my_csv_files/")
+setwd("~/Documents/MyWebPage/content/blog/example/my_csv_files/")
 fileslist = list.files(pattern = "")
 csvFiles = lapply(fileslist, function(x)read.table(x, header = T, sep = ","))
 csvFiles = do.call("rbind", csvFiles)
@@ -108,7 +108,7 @@ csvFiles |> head()
 And the second way is to import the multiple csv files from our directory using the *.map* function.
 
 ```{r}
-directory_that_holds_files <-("~/Documents/Running_Projects/MyWebPage/content/blog/example/my_csv_files/")
+directory_that_holds_files <-("~/Documents/MyWebPage/content/blog/example/my_csv_files/")
 
 chromosomes_list <- directory_that_holds_files %>%
   dir_ls() %>%
