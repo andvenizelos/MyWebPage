@@ -1,0 +1,136 @@
+---
+date: "2022-06-23"
+linkTitle: How to read multiple csv files
+title: How to read multiple csv files
+type: book
+highlight: TRUE
+output: html_document
+weight: 10
+---
+
+```{r,warning=FALSE, message=FALSE, echo=FALSE}
+library(downloadthis)
+```
+
+## Downloading Data
+
+For this session we are going to utilise the dataset from the <https://encode.project.org/>.
+
+You can download the **txt file** here:
+
+```{r, echo=FALSE}
+download_link(
+  link = "https://github.com/andvenizelos/MyBlog_R_For_Biologists/blob/main/Tip.1/Encode_HMM_data.txt",
+  button_label = "Download txt file",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
+## Install Packages and Loading Libraries
+
+First step is to install packages either from CRAN, Bioconductor or from Github and to load the libraries.
+
+```{r, warning=FALSE, message=FALSE}
+library(data.table)
+library(dplyr)
+library(tidyverse)
+library(plyr)
+library(fs)
+```
+
+## Importing Data
+
+Navigate your directory to your folder where you have saved the data set. Now we will go ahead to import our data set using the fread command.
+
+```{r, echo=FALSE, results='hide'}
+setwd("~/Documents/Running_Projects/MyWebPage/content/blog/example/")
+filename <- "~/Documents/Running_Projects/MyWebPage/content/blog/example/Encode_HMM_data.txt"
+
+```
+
+```{r}
+my_data <- fread(filename)
+```
+
+## Data wrangling
+
+In order to have a clean data set we need to add column names and to remove the columns that are not needed for our final heatmap output.
+
+```{r}
+colnames(my_data)[1:4] <- c("chrom","start","stop","type")
+my_data <- my_data[,c(1:4)] #Keeping only the columns 1 to 4
+my_data$type <- gsub('[[:digit:]]+_','',my_data$type) #removing the numbers and underscores from our type column
+glimpse(my_data)
+```
+
+## Creating a new directory
+
+We can now create a new directory where we can save our *.csv* files.
+
+```{r}
+new_directory <- "~/Documents/Running_Projects/MyWebPage/content/blog/example/my_csv_files/"
+dir_create(new_directory)
+```
+
+## Spliting our dataframe
+
+We are now ready to split our data frame into multiple *.csv* files and we can save them under the directory **/my_csv_files**.
+
+```{r, echo=TRUE, results='hide',warning=FALSE}
+setwd("~/Documents/Running_Projects/MyWebPage/content/blog/example/my_csv_files/")
+my_data %>%
+    group_by(chrom) %>%
+    group_split() %>%
+    map(
+        .f = function(data) {
+            write_csv(data, path = unique(data$chrom))
+        }
+    )
+```
+
+## Importing multiple csv files [1]
+
+We can do this in multiple ways, either using the **lapply** function after generatiing a list or the **map** function. Let's go ahead and use the first way :
+
+```{r}
+setwd("~/Documents/Running_Projects/MyWebPage/content/blog/example/my_csv_files/")
+fileslist = list.files(pattern = "")
+csvFiles = lapply(fileslist, function(x)read.table(x, header = T, sep = ","))
+csvFiles = do.call("rbind", csvFiles)
+csvFiles |> head()
+```
+
+## Importing multiple csv files [2]
+
+And the second way is to import the multiple csv files from our directory using the *.map* function.
+
+```{r}
+directory_that_holds_files <-("~/Documents/Running_Projects/MyWebPage/content/blog/example/my_csv_files/")
+
+chromosomes_list <- directory_that_holds_files %>%
+  dir_ls() %>%
+  map(
+    .f = function(path)read.table(path, header = T, sep = ","))
+
+```
+
+## Binding Rows
+
+And the final step is to bind the data frame with the *bind_rows* function.
+
+```{r}
+chromosomes_tbl <- chromosomes_list %>%
+    set_names(dir_ls(directory_that_holds_files)) %>%
+    bind_rows(.id = "file_path")
+head(chromosomes_tbl)
+
+```
+### You can find the csv split files here : 
+
+
+<a id="raw-url" href="https://github.com/andvenizelos/MyBlog_R_For_Biologists/tree/main/Tip.4">Download FILES</a>
+
+
