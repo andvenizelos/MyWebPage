@@ -5,7 +5,7 @@ title: How to read multiple csv files
 type: book
 highlight: TRUE
 output: html_document
-weight: 10
+weight: 50
 ---
 
 ```{r,warning=FALSE, message=FALSE, echo=FALSE}
