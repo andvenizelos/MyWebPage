@@ -4,8 +4,8 @@ linkTitle: How to read multiple csv files
 title: How to read multiple csv files
 type: book
 highlight: TRUE
-output: html
-weight: 50
+output: html_document
+weight: 10
 ---
 
 ```{r,warning=FALSE, message=FALSE, echo=FALSE}
