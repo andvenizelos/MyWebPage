@@ -84,7 +84,7 @@ csvFiles |&gt; head()</code></pre>
 </div>
 <div id="importing-multiple-csv-files-2" class="section level2">
 <h2>Importing multiple csv files [2]</h2>
-<p>And the second way is to import the multiple csv files from our directory using the <em>.map</em> function.</p>
+<p>And the second way is to import the multiple csv files in a list from our directory using the <em>.map</em> function.</p>
 <pre class="r"><code>directory_that_holds_files &lt;-(&quot;~/Documents/MyWebPage/content/blog/example/my_csv_files/&quot;)
 
 chromosomes_list &lt;- directory_that_holds_files %&gt;%
@@ -94,7 +94,7 @@ chromosomes_list &lt;- directory_that_holds_files %&gt;%
 </div>
 <div id="binding-rows" class="section level2">
 <h2>Binding Rows</h2>
-<p>And the final step is to bind the data frame with the <em>bind_rows</em> function.</p>
+<p>And the final step is use <em>bind_rows</em> function to make a final data frame.</p>
 <pre class="r"><code>chromosomes_tbl &lt;- chromosomes_list %&gt;%
     set_names(dir_ls(directory_that_holds_files)) %&gt;%
     bind_rows(.id = &quot;file_path&quot;)
