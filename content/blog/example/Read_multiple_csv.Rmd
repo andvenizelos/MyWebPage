@@ -105,7 +105,7 @@ csvFiles |> head()
 
 ## Importing multiple csv files [2]
 
-And the second way is to import the multiple csv files from our directory using the *.map* function.
+And the second way is to import the multiple csv files in a list from our directory using the *.map* function.
 
 ```{r}
 directory_that_holds_files <-("~/Documents/MyWebPage/content/blog/example/my_csv_files/")
@@ -119,7 +119,7 @@ chromosomes_list <- directory_that_holds_files %>%
 
 ## Binding Rows
 
-And the final step is to bind the data frame with the *bind_rows* function.
+And the final step is use *bind_rows* function to make a final data frame.
 
 ```{r}
 chromosomes_tbl <- chromosomes_list %>%
