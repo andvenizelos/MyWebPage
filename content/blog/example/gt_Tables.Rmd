@@ -7,7 +7,6 @@ output:
   pdf_document: default
 highlight: yes
 type: book
-weight: 40
 ---
 
 In publications tables are extememely important to compare individual values, while plots for showing traces or patterns. The *gt* package, can generate quality tables in R. Here I am going to show you a simple code of line in order to produce a table. In addition the complexity of our code will be increased by adding a special design to our table, such as changes in fonts, in colors and adding footnotes. We will go ahead and we will you the the same dataset from the *Basic Data Wrangling* blog content.
