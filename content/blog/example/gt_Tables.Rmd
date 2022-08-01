@@ -9,7 +9,7 @@ highlight: yes
 type: book
 ---
 
-In publications tables are extememely important to compare individual values, while plots for showing traces or patterns. The *gt* package, can generate quality tables in R. Here I am going to show you a simple code of line in order to produce a table. In addition the complexity of our code will be increased by adding a special design to our table, such as changes in fonts, in colors and adding footnotes. We will go ahead and we will you the the same dataset from the *Basic Data Wrangling* blog content.
+In publications, tables are extremely important to compare individual values, while plots are for showing traces or patterns. The *gt* package, can generate quality tables in R. Here I am going to show you a simple code of line in order to produce a table. In addition the complexity of our code will be increased by adding a special design to our table, such as changes in fonts, in colors and footnotes. We will go ahead and we will use the the same data-set from the *Basic Data Wrangling* blog content.
 
 ## Downloading Data
 
@@ -52,13 +52,13 @@ filename <- "~/Documents/MyWebPage/content/blog/example/Encode_HMM_data.txt"
 
 ```
 
-Now we will go ahead to import our data set using the **fread** function.
+Now we will go ahead to import our data set using the **fread()** function.
 
 ```{r, echo = TRUE}
 my_data <- fread(filename)
 ```
 
-Then you need to polish your dataset and split into a dataframe by chromosome and type with **ddply** function from *plyr* package.
+Then you need to polish your dataset and split into a dataframe by chromosome and type with **ddply()** function from *plyr* package.
 
 ```{r, echo=TRUE}
 colnames(my_data)[1:4] <- c("chrom","start","stop","type")
@@ -68,9 +68,9 @@ my_data2 <- ddply(my_data, .(type, chrom), summarise , no = length(type))
 glimpse(my_data2)
 ```
 
-## Pivot_longer
+## Pivot_wider
 
-**pivot_longer()** makes dataset **longer** by increasing the number of rows and decreasing the number of columns.
+**pivot_wider()** makes the data-set **wider** and is often utilized to tidy long data sets and required for the purpose of creating tables.
 
 ```{r, echo=TRUE}
 my_data_final <- my_data2 %>% group_by(type) %>% 
