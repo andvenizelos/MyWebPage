@@ -184,9 +184,9 @@ table_gt_final2
 
 And now we are ready to save our table. The **gtsave()** function makes it easy to save a **gt** table to a file in a different format such as (HTML, PDF, PNG, LaTeX, or RTF file) via the {webshot} package.
 
-```{r,warning=FALSE, cache.comments=FALSE}
+```{r,warning=FALSE, cache.comments=FALSE,results='hide'}
 webshot::install_phantomjs() 
-table_gt_final2 %>% gtsave("~/Documents/MyWebPage/content/blog/example/table.pdf")
+table <- table_gt_final2 %>% gtsave("~/Documents/MyWebPage/content/blog/example/table.pdf")
 ```
 
 ## Feel free to download the files from github: 
