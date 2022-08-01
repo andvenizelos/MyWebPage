@@ -9,7 +9,7 @@ highlight: yes
 type: book
 ---
 
-In publications, tables are extremely important to compare individual values, while plots are for showing traces or patterns. The *gt* package, can generate quality tables in R. Here I am going to show you a simple code of line in order to produce a table. In addition the complexity of our code will be increased by adding a special design to our table, such as changes in fonts, in colors and footnotes. We will go ahead and we will use the the same data-set from the *Basic Data Wrangling* blog content.
+In publications, tables are extremely important to compare individual values, while plots are for showing traces or patterns. The *gt* package, can generate quality tables in R. Here I am going to show you a single line of code in order to produce a table. In addition the complexity of our code will be increased by adding a special design to our table, such as changes in fonts, in colors and footnotes. We will go ahead and we will use the the same data-set from the *Basic Data Wrangling* blog content.
 
 ## Downloading Data
 
@@ -100,7 +100,7 @@ my_data_final <- my_data_final[order(my_data_final[,12],decreasing = TRUE),]
 
 ## Create a table
 
-Finally we are ready to convert our dataset into a table by running a simple line of code.
+Finally we are ready to convert our dataset into a table by running a single line of code.
 
 ```{r, echo=TRUE}
 table_gt <- my_data_final %>% gt()
