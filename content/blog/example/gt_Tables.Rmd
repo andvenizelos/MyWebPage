@@ -162,7 +162,7 @@ table_gt_final %>% data_color(columns = c(chr19),
 
 ## Adding Footnotes
 
-Footnotes are important for explanatory (content) notes or copyright permission. Therefore footnotes could also be significant for academic/scientific tables with more complex data-sets. Footnotes are usually placed at the bottom of the table. One way to add a footnote with *gt* package is to use the function **tab_footnote()**. In addition you have the option to modify the set of footnote marks with the fucntion **opt_footnote_marks**. The valid keywords are : **numbers** (for numeric marks), **letters** (for alphabetic marks), **standard** (for traditional symbol marks) and **extended** (which adds more symbols to the standard set.) For our table we have used the **numbers** keyword as an option for footnote mark.
+Footnotes are important for explanatory (content) notes or copyright permission. Therefore footnotes could also be significant for academic/scientific tables with more complex data-sets. Footnotes are usually placed at the bottom of the table. One way to add a footnote with *gt* package is to use the function **tab_footnote()**. In addition you have the option to modify the set of footnote marks with the function **opt_footnote_marks**. The valid keywords are : **numbers** (for numeric marks), **letters** (for alphabetic marks), **standard** (for traditional symbol marks) and **extended** (which adds more symbols to the standard set.) For our table we have used the **numbers** keyword as an option for footnote mark.
 
 ```{r}
 table_gt_final2 <- table_gt_final %>% data_color(columns = c(chr19),
@@ -175,7 +175,7 @@ table_gt_final2 <- table_gt_final %>% data_color(columns = c(chr19),
   tab_footnote(footnote = md("Promoters"),
                locations = cells_body(
                  columns = c("type"),
-                 rows = c(4,8, 12)
+                 rows = c(4,8,12)
                  )) %>% opt_footnote_marks(marks = "numbers")
 table_gt_final2
 ```
