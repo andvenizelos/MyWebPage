@@ -13,7 +13,7 @@ abstract: High-grade (HG) gastroenteropancreatic (GEP) neuroendocrine neoplasms 
   Eight out of 152 (5.3%) NEC were microsatellite instable (MSI). NET G3 had frequent mutations in MEN1 (21%), ATRX (17%), DAXX, SETD2 and TP53 (each 14%). We show molecular differences in HG GEP-NEN, related to morphological differentiation and site of origin. Limited similarities to SCLC and a high fraction of targetable alterations indicate a high potential for betterpersonalized treatments.
   
 authors:
-- Andreas Venizelos, Hege Elvebakken, Aurel Perren, Oleksii Nikolaienko, Wei Deng
+- *Andreas Venizelos*, Hege Elvebakken, Aurel Perren, Oleksii Nikolaienko, Wei Deng, et.al.
 - 
 date: "2021-11-01T00:00:00Z"
 doi: ""
