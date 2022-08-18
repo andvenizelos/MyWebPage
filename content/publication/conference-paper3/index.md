@@ -11,7 +11,7 @@ abstract: Subclonal evolution during primary breast cancer treatment is largely 
   formal mutation calling,
   indicated that the majority of subclones seemingly appearing during treatment were in fact present in pretreatment breast cancers, 
   below conventional detection limits. Likewise, subclones which seemingly disappeared were still present, below detection limits, in most
-  cases wheretumor tissue remained. Tumor mutational burden (TMB) dropped during neoadjuvant therapy, and copy number analysis demonstrated
+  cases where tumor tissue remained. Tumor mutational burden (TMB) dropped during neoadjuvant therapy, and copy number analysis demonstrated
   specific
   genomic regions to be systematically lost or gained for each of the two chemotherapeutics.Sequential epirubicin and docetaxel monotherapy
   caused profound redistribution of smaller subclones in primary breast cancer, while early truncal mutations and major subclones generally
