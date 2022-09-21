@@ -5,13 +5,13 @@ address:
   country: Norway
   postcode: "5003"
   region: Norway
-  street: Jonas Lies vei 65
+  street: Dreggsallmenningen 1
 all_day: false
 authors: []
-date: "2022-09-29T13:00:00Z"
-date_end: "2022-09-29T15:00:00Z"
+date: "2022-09-29T18:45:00Z"
+date_end: "2022-09-29T19:30:00Z"
 event: Tema Mamma Bergen
-event_url: https://www.uib.no/en/rs/clinicalmedicine.
+event_url: https://www.rochehelse.no/events/Events-Onkologi/tema-mamma-bergen.html
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/andvenizelos
-location: Radisson 
+location: Radisson Blu Royal Hotel, Bergen
 projects:
 - internal-project3
 publishDate: "2017-01-01T00:00:00Z"
