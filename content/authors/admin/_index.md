@@ -15,9 +15,9 @@ education:
 email: "andreas.venizelos@yahoo.com"
 highlight_name: true
 organizations:
-- name: University of Bergen, Haukeland University Hospital
-  url: https://www.uib.no/
-role: CLINICAL SCIENTIST, POSTDOCTORAL FELLOW @ UNIVERSITY OF BERGEN, HAUKELAND UNIVERSITY HOSPITAL
+- name: Oxford Nanopore Technologies
+  url: https://https://nanoporetech.com/
+role: FIELD APPLICATION SCIENTIST @ OXFORD NANOPORE TECHNOLOGIES
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,12 +38,12 @@ superuser: true
 title: Dr. Andreas Venizelos
 ---
 
-Currently, I am a postdoctoral researcher in cancer genomics at the University of Bergen and Haukeland University hospital and an active member of Academy for Young Medical Researchers at K.G. Jebsen Center for Genome-Directed Therapy in Cancer.
+Currently, I am a Field Apllication Scientist at Oxford Nanopore Technologies. Prior to that I was a postdoctoral researcher in cancer genomics at the University of Bergen and Haukeland University hospital and an active member of Academy for Young Medical Researchers at K.G. Jebsen Center for Genome-Directed Therapy in Cancer.
 
 Due my strong passion for research, I took a wide variety of opportunities to work as a researcher on different occasions. Firstly, I worked in the Medical Oncogenetics Department, 401 Military Hospital of Athens. Then, I moved to Germany where I started working as a Senior Medical Technologist at Centogene, AG, Rostock, Berlin, Germany  (a big diagnostic company for rare diseases). 
 
 I am expertise in biomedical sciences (human genomics) with a solid theoretical, technical, and bioinformatics background in NGS sequencing technologies; data analysis, and interpretation.
 
-I grew up in Athens, but now I live in Bergen🇳🇴
+I grew up in Athens, but now I live in Copenhagen :Denamrk:
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
