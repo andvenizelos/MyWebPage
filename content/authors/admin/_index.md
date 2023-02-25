@@ -17,7 +17,7 @@ highlight_name: true
 organizations:
 - name: Oxford Nanopore Technologies
   url: https://nanoporetech.com/
-role: FIELD APPLICATION SCIENTIST @ OXFORD NANOPORE TECHNOLOGIES
+role: FIELD APPLICATIONS SCIENTIST @ OXFORD NANOPORE TECHNOLOGIES
 social:
 - icon: envelope
   icon_pack: fas
