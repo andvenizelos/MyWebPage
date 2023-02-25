@@ -19,23 +19,23 @@ abstract: Subclonal evolution during primary breast cancer treatment is largely 
 authors:
 - Andreas Venizelos, Christina Engebrethsen, Wei Deng, Jürgen Geisler, Stephanie Geisler, Gjertrud T. Iversen,et.al
 - 
-date: "2022-08-11T00:00:00Z"
+date: "2023-02-11T00:00:00Z"
 doi: ""
 featured: yes
 links:
 - name: Link
-  url: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01090-2
+  url: https://ascopubs.org/doi/abs/10.1200/PO.22.00336?role=tab
 projects:
 - internal-project3
-publication: '*Genome Medicine*'
+publication: '*JCO Precision Oncology*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-08-11T00:00:00Z"
+publishDate: "2023-02-11T00:00:00Z"
 
 tags:
-- Breast Cancer
-title: Clonal evolution in primary breast cancers under sequential epirubicin and docetaxel monotherapy
+- Neuroendocrine Caricnoma
+title: Mutation Spectrum in Liquid Versus Solid Biopsies From Patients With Advanced Gastroenteropancreatic Neuroendocrine Carcinoma
 url_pdf: 'uploads/PaperIII.pdf'
 
 ---
