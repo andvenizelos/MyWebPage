@@ -16,7 +16,7 @@ email: "andreas.venizelos@yahoo.com"
 highlight_name: true
 organizations:
 - name: Oxford Nanopore Technologies
-  url: https://https://nanoporetech.com/
+  url: https://nanoporetech.com/
 role: FIELD APPLICATION SCIENTIST @ OXFORD NANOPORE TECHNOLOGIES
 social:
 - icon: envelope
