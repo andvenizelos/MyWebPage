@@ -44,6 +44,6 @@ Due my strong passion for research, I took a wide variety of opportunities to wo
 
 I am expertise in biomedical sciences (human genomics) with a solid theoretical, technical, and bioinformatics background in NGS sequencing technologies; data analysis, and interpretation.
 
-I grew up in Athens, but now I live in Copenhagen :Denmark:
+I grew up in Athens, but now I live in Copenhagen :denmark:
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
