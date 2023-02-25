@@ -11,7 +11,7 @@ links:
 - name: Link
   url: https://ascopubs.org/doi/abs/10.1200/PO.22.00336?role=tab
 projects:
-- internal-project3
+- internal-project2
 publication: '*JCO Precision Oncology*'
 publication_short: ""
 publication_types:
@@ -21,6 +21,6 @@ publishDate: "2023-02-11T00:00:00Z"
 tags:
 - Neuroendocrine Caricnoma
 title: Mutation Spectrum in Liquid Versus Solid Biopsies From Patients With Advanced Gastroenteropancreatic Neuroendocrine Carcinoma
-url_pdf: 'uploads/PaperIII.pdf'
+url_pdf: 'uploads/PaperIV.pdf'
 
 ---
