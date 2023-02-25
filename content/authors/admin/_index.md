@@ -38,7 +38,7 @@ superuser: true
 title: Dr. Andreas Venizelos
 ---
 
-Currently, I am a Field Applications Scientist at Oxford Nanopore Technologies. Prior to that, I was a postdoctoral researcher in cancer genomics at the University of Bergen and Haukeland University Hospital and an active member of the Academy for Young Medical Researchers at K.G. Jebsen Center for Genome-Directed Therapy in Cancer.
+Currently, I am a Field Applications Scientist at Oxford Nanopore Technologies. Prior to that, I was a Postdoctoral Researcher in Cancer Genomics at the University of Bergen and Haukeland University Hospital and an active member of the Academy for Young Medical Researchers at K.G. Jebsen Center for Genome-Directed Therapy in Cancer.
 
 Due my strong passion for research, I took a wide variety of opportunities to work as a researcher on different occasions. Firstly, I worked in the Medical Oncogenetics Department, 401 Military Hospital of Athens. Then, I moved to Germany where I started working as a Senior Medical Technologist at Centogene, AG, Rostock, Berlin, Germany  (a big diagnostic company for rare diseases). 
 

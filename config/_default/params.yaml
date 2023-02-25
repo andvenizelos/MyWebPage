@@ -21,17 +21,17 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: andreas.venizelos@yahoo.com
-phone: +47 409 79 851
+phone: +45 601 47 822
 address:
-  street: Jonas Lies vei 65
-  city: Bergen
-  region: Norway
-  postcode: '5021'
-  country: Norway
-  country_code: NO
+  street: Crowe Rygårds Allé 104
+  city: Copenhagen
+  region: Hellerup
+  postcode: '2900'
+  country: Denmark
+  country_code: DK
 coordinates:
-  latitude: '60.374014833243656'
-  longitude: '5.3595990153831385'
+  latitude: '55.72272391759521'
+  longitude: '12.560123443848296'
 contact_links:
   - icon: twitter
     icon_pack: fab
