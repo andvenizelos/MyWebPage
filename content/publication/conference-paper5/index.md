@@ -9,7 +9,7 @@ doi: ""
 featured: yes
 links:
 - name: Link
-  url: https:https://doi.org/10.1530/ERC-23-0057
+  url: https://doi.org/10.1530/ERC-23-0057
 projects:
 - internal-project2
 publication: '*Endocrine Related Cancer*'
