@@ -1,5 +1,5 @@
 ---
-abstract: High-grade gastroenteropancreatic (HG-GEP) NEN are highly aggressive cancers.The molecular etiology of these tumors remains unclear and the prevalence of pathogenic germline variants in patients.
+abstract: High-grade gastroenteropancreatic (HG-GEP) NEN are highly aggressive cancers.The molecular etiology of these tumors remains unclear and the prevalence of pathogenic germline We assessed sequencing data of 360 cancer genes in normal tissue, from 240 patients with HG GE-NEN; 198 patients with NEC and 42 with NET G3. Applying strict criteria, we identified pathogenic germline variants and compared the frequency with previously reported data from 33 different cancer types. variants in patients.
 
 authors:
 - Andreas Venizelos, Halfdan Sorbye, Hege Elvebakken, Aurel Perren, et.al
