@@ -2,7 +2,7 @@
 abstract: Avantor Seminar Bergen, Norway
   city: Bergen
   country: Norway
-  postcode:
+  postcode: "5015"
   region: Bergen
   street: Det Akademiske Kvarter, Olav Kyrres Gate 49, 5015 Bergen
 all_day: false
@@ -23,10 +23,10 @@ links:
 location: Det Akademiske Kvarter
 projects:
 - internal-project5
-publishDate: ""
+publishDate: "2023-09-26"
 tags: []
 title: Avantor Seminar Bergen, Norway
 url_code: ""
-url_pdf: 
+url_pdf: ""
 ---
 

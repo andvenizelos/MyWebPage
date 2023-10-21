@@ -2,7 +2,7 @@
 abstract: Nanopore Day Stockholm, 2023
   city: Stockholm
   country: Sweden
-  postcode:
+  postcode: "141 86"
   region: Sweden
   street: Rolf Luft Auditorium, Karolinska Universitetssjukhuset, 141 86, Stockholm, Sweden
 all_day: false
@@ -23,10 +23,10 @@ links:
 location: Rolf Luft Auditorium
 projects:
 - internal-project4
-publishDate: ""
+publishDate: "2023-05-31"
 tags: []
 title: Nanopore Day Stockholm, 2023
 url_code: ""
-url_pdf: 
+url_pdf: ""
 ---
 
