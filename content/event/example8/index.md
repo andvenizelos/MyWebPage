@@ -1,5 +1,6 @@
 ---
 abstract: Avantor Seminar Bergen, Norway
+address:
   city: Bergen
   country: Norway
   postcode: "5015"

@@ -1,5 +1,6 @@
 ---
 abstract: Bionordika, Nordic NGS Conference, Copenhagen
+address:
   city: Copenhagen
   country: Denmark
   postcode:"1780"
