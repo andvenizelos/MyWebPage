@@ -13,7 +13,7 @@ main:
   - name: Blog
     url: blog/
     weight: 30
-  - name: Project
+  - name: Projects
     url: '#project'
     weight: 40
   - name: Talks
