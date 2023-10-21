@@ -5,7 +5,7 @@ image:
   caption: Dose Dense Protocol
   focal_point: Smart
 links:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/feed/update/urn:li:activity:7115684726731878401/
