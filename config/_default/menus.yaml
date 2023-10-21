@@ -10,11 +10,11 @@ main:
   - name: Publications
     url: '#featured'
     weight: 20
-  - name: Events
-    url: '#events'
-    weight: 30
   - name: Blog
     url: blog/
+    weight: 30
+  - name: Projects
+    url: '#projects'
     weight: 40
   - name: Talks
     url: '#talks'
@@ -22,6 +22,4 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-    
-    
 
