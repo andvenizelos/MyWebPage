@@ -9,10 +9,14 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/dr-andreas-venizelos-297802ab/recent-activity/all/
-- icon: <i class="fa-brands fa-x-twitter"></i>
-  icon_pack: <i class="fa-brands fa-x-twitter"></i>
+- icon: fa-x-twitter
+  icon_pack: fab
   name: Follow
   url: https://twitter.com/CalderbankRosie/status/1663815488034467841/photo/1
+- icon: 
+  icon_pack: 
+  name: Register Here!
+  url: https://nanoporetech.com/nanopore-day-stockholm-2023
 summary:  It's a full house at our Oxford Nanopore Day Event in Stockholm, Sweden. Great engagement and networking going on!
 tags:
 
