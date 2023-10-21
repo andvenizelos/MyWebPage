@@ -16,7 +16,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 links:
-- icon: Twitter
+- icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/andvenizelos
@@ -25,7 +25,7 @@ projects:
 - internal-project4
 publishDate: ""
 tags: []
-title:
+title: Nanopore Day Stockholm, 2023
 url_code: ""
 url_pdf: 
 ---
