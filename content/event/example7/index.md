@@ -1,5 +1,6 @@
 ---
 abstract: Nanopore Day Stockholm, 2023
+address:
   city: Stockholm
   country: Sweden
   postcode: "141 86"
