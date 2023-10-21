@@ -9,10 +9,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/feed/update/urn:li:activity:7115684726731878401/
-summary:  It's a full house at our Oxford Nanopore Day Event in Stockholm, Sweden. Great engagement and networking going on! #nanopore
+summary:  It's a full house at our Oxford Nanopore Day Event in Stockholm, Sweden. Great engagement and networking going on!
 tags:
 
-title: Nanopore Day Stockholm :sweden:
+title: Nanopore Day Stockholm Sweden
 
 ---
 
