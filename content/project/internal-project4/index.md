@@ -1,6 +1,6 @@
 ---
 date: "2023-05-31T00:00:00Z"
-external_link: "https://nanoporetech.com/nanopore-day-stockholm-2023"
+external_link: ""
 image:
   caption: Nanopore Day
   focal_point: Smart
@@ -9,8 +9,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/dr-andreas-venizelos-297802ab/recent-activity/all/
-- icon: X
-  icon_pack: <i class="fa-sharp fa-solid fa-x"></i>
+- icon: <i class="fa-brands fa-x-twitter"></i>
+  icon_pack: <i class="fa-brands fa-x-twitter"></i>
   name: Follow
   url: https://twitter.com/CalderbankRosie/status/1663815488034467841/photo/1
 summary:  It's a full house at our Oxford Nanopore Day Event in Stockholm, Sweden. Great engagement and networking going on!
@@ -28,3 +28,4 @@ There will also be an opportunity to submit questions throughout the talks, whic
 Please note that this is an in-person event.
 
 There is no delegate fee for this event, but registration is required. Your place at this event will be confirmed via email from events@nanoporetech.com.
+url: https://nanoporetech.com/nanopore-day-stockholm-2023
