@@ -16,12 +16,15 @@ main:
   - name: Blog
     url: blog/
     weight: 40
+  - name: Awards
+    url: award/
+    weight: 50
   - name: Talks
     url: '#talks'
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
     
     
    
