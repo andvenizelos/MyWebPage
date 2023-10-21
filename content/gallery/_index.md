@@ -1,5 +1,5 @@
 ---
 summary: null
-title: Gallery
+title: gallery
 type: widget_page
 ---
