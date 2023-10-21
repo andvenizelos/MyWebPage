@@ -3,7 +3,7 @@ abstract: Bionordika, Nordic NGS Conference, Copenhagen
 address:
   city: Copenhagen
   country: Denmark
-  postcode:"1780"
+  postcode: "1780"
   region: Denmark
   street: IDA Conference Kalvebod Brygge 31-33 1780 København V 
 all_day: false
