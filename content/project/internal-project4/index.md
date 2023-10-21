@@ -9,7 +9,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/dr-andreas-venizelos-297802ab/recent-activity/all/
-- icon: fa-x-twitter
+- icon: x-twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/CalderbankRosie/status/1663815488034467841/photo/1
