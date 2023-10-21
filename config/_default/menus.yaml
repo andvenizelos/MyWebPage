@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Posts
     url: '#posts'
-    weight: 20
+    weight: 60
   - name: Publications
     url: '#featured'
     weight: 30
