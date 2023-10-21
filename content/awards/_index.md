@@ -2,7 +2,7 @@
 header:
   caption: ""
 title: Awards
-type: chapter
+type: ""
 view: 3
 ---
 
