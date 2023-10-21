@@ -12,6 +12,10 @@ links:
 summary:  Molecular markers predicting response to dose dense chemotherapy with epirubicin and docetaxel in sequence for locally advanced breast cancer
 tags:
 
+
+![BioNordika](featured.jpg)
+
+
 title: BioNordika Event
 
 ---
