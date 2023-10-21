@@ -1,19 +1,42 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: ""
-image:
-  caption: Dose Dense Protocol
-  focal_point: Smart
-links:
-- icon: linkedin
-  icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/feed/update/urn:li:activity:7115684726731878401/
-summary:  Molecular markers predicting response to dose dense chemotherapy with epirubicin and docetaxel in sequence for locally advanced breast cancer
-tags:
+active: false
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
 
-title: Bionordika
+# This file represents a page section.
+headless: true
 
+# Order that this section appears on the page.
+weight: 60
+
+title: Recent Posts
+subtitle: Bionordika
+
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: post
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
+  # Filter on criteria
+  filters:
+    author: ""
+    category: ""
+    tag: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ""
+  # Choose how many pages you would like to offset by
+  offset: 1
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
 ---
-
-
