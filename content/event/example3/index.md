@@ -1,5 +1,5 @@
 ---
-abstract: 10 minutes presentation, focusing on three aspects;
+abstract: 20 minutes presentation, focusing on three aspects;
  academic background, research, available methods/competencies  
 address:
   city: Hurdal
@@ -15,7 +15,7 @@ event: K.G. Jebsen Academy for young Medical Researchers
 event_url: https://www.ntnu.edu/kg-jebsen-academy/venizelos
 featured: false
 image:
-  caption: 'Image credit: [*Mari Løset*]'
+  caption: 
   focal_point: Right
 links:
 - icon: twitter
