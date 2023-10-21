@@ -33,7 +33,7 @@ coordinates:
   latitude: '55.72272391759521'
   longitude: '12.560123443848296'
 contact_links:
-  - icon: Twitter    
+  - icon: twitter    
     icon_pack: fab
     name: Follow me on Twitter
     link: 'https://twitter.com/andvenizelos'
