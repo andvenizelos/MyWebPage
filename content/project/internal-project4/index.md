@@ -9,8 +9,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/dr-andreas-venizelos-297802ab/recent-activity/all/
-- icon: Twitter_X
-  icon_pack: 
+- icon: Twitter_X.svg
+  icon_pack:"" 
   name: Follow
   url: https://twitter.com/CalderbankRosie/status/1663815488034467841/photo/1
 - icon: 
@@ -32,4 +32,3 @@ There will also be an opportunity to submit questions throughout the talks, whic
 Please note that this is an in-person event.
 
 There is no delegate fee for this event, but registration is required. Your place at this event will be confirmed via email from events@nanoporetech.com.
-url: https://nanoporetech.com/nanopore-day-stockholm-2023
