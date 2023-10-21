@@ -7,18 +7,18 @@ main:
   - name: Home
     url: '#about'  
     weight: 10
-  - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Blog
-    url: blog/
-    weight: 30
   - name: Posts
     url: '#projects'
     weight: 20
+  - name: Publications
+    url: '#featured'
+    weight: 30
+  - name: Blog
+    url: blog/
+    weight: 40
   - name: Talks
     url: '#talks'
-    weight: 40
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
