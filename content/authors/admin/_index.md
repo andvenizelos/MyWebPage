@@ -38,12 +38,12 @@ superuser: true
 title: Dr. Andreas Venizelos
 ---
 
-Currently, I am a Field Applications Scientist at Oxford Nanopore Technologies. Prior to that, I was a Postdoctoral Researcher in Cancer Genomics at the University of Bergen and Haukeland University Hospital and an active member of the Academy for Young Medical Researchers at K.G. Jebsen Center for Genome-Directed Therapy in Cancer.
+I currently hold the position of Field Applications Scientist at Oxford Nanopore Technologies, where I contribute my expertise in the field of genomics and sequencing technology. Prior to this role, I served as a dedicated Postdoctoral Researcher in Cancer Genomics at the University of Bergen and Haukeland University Hospital, actively participating in the Academy for Young Medical Researchers based at the K.G. Jebsen Center for Genome-Directed Therapy in Cancer.
 
-Due my strong passion for research, I took a wide variety of opportunities to work as a researcher on different occasions. Firstly, I worked in the Medical Oncogenetics Department, 401 Military Hospital of Athens. Then, I moved to Germany where I started working as a Senior Medical Technologist at Centogene, AG, Rostock, Berlin, Germany  (a big diagnostic company for rare diseases). 
+My career has been marked by a profound commitment to research and a continuous pursuit of diverse opportunities to expand my knowledge and experience. My journey began in the Medical Oncogenetics Department at the 401 Military Hospital of Athens. Subsequently, I ventured to Germany, where I assumed the role of a Senior Medical Technologist at Centogene, AG, Rostock, Berlin, a renowned diagnostic company specializing in rare diseases.
 
-I am expertise in biomedical sciences (human genomics) with a solid theoretical, technical, and bioinformatics background in NGS sequencing technologies; data analysis, and interpretation.
+My professional background is grounded in the biomedical sciences, with a primary focus on human genomics. I possess a well-rounded skill set encompassing theoretical, technical, and bioinformatics proficiency, particularly in the realm of NGS sequencing technologies, data analysis, and interpretation.
 
-I grew up in Athens, but now I live in Copenhagen :denmark:
+While I hail from Athens, Greece, my current residence is in Copenhagen :denmark:
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
