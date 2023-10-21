@@ -1,11 +1,17 @@
 ---
-commentable: false
-date: "2018-06-28T00:00:00+01:00"
-draft: true
-editable: false
-header:
-  caption: ""
-  image: 'featured.jpg'
-share: false
-title: Privacy Policy
+date: "2016-04-27T00:00:00Z"
+external_link: ""
+image:
+  focal_point: Smart
+links:
+- icon: linkedin
+  icon_pack: fab
+  name: Follow
+  url: 
+summary: Seminar Bionordika
+tags:
+
+title: xxxssxssx
 ---
+
+xsxssxssxs
