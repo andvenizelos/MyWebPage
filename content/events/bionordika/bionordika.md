@@ -1,8 +1,6 @@
 ---
-date: "2016-04-27T00:00:00Z"
-external_link: ""
-image:
-  focal_point: Smart
+<img src="bionordika/featured.jpg" width="400" align = "right">
+
 links:
 - icon: linkedin
   icon_pack: fab
