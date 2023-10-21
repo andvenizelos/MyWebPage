@@ -1,0 +1,13 @@
+---
+date: "2023-10-15"
+linkTitle: Award
+title: How to create a Heatmap
+type: book
+highlight: TRUE
+output: html_document
+weight: 30
+---
+
+[![Little red riding hood](https://i.stack.imgur.com/XCRlR.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+
+```
