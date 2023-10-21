@@ -2,7 +2,7 @@
 date: "2023-05-31T00:00:00Z"
 external_link: ""
 image:
-  caption: Nanopore Day
+  caption: Nanopore Day Stockholm, Sweden
   focal_point: Smart
 links:
 - icon: linkedin
@@ -12,19 +12,23 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https:https://twitter.com/andvenizelos/status/1706634029972226479/photo/1
+  url: https://twitter.com/CalderbankRosie/status/1663815488034467841/photo/1
 - icon: 
   icon_pack: 
-  name: Program
-  url: https://k2info.w.uib.no/files/2023/09/K2nyttNanopore53.pdf
+  name: Register Here!
+  url: https://nanoporetech.com/nanopore-day-stockholm-2023
 summary:  It's a full house at our Oxford Nanopore Day Event in Stockholm, Sweden. Great engagement and networking going on!
 tags:
 
-title: Avantor Seminar Nanopore Bergen, Norway
+title: Nanopore Day Stockholm Sweden
 
 ---
 
 Event overview:
-Returning to Bergen, Norway brings back amazing memories of 7 years as a scientist. Thrilled to be back in my FAS role for this exciting Avantor scientific seminar. Dive deep into the world of science! Our ongoing seminar features talks from Marine Biologists, Cancer Genomics experts and more, all powered by Oxford Nanopore Technologies !
+Hear about the latest technical updates for Oxford Nanopore Technologies as well as talks from local scientists about their latest work using nanopore technology.
 
-Big thanks to Magdalena Alfredsen and her dedicated colleagues for orchestrating an outstanding event!
+There will also be an opportunity to submit questions throughout the talks, which will be answered in the Q&A sessions following each presentation.
+
+Please note that this is an in-person event.
+
+There is no delegate fee for this event, but registration is required. Your place at this event will be confirmed via email from events@nanoporetech.com.

@@ -1,8 +1,8 @@
 ---
-date: "2023-05-31T00:00:00Z"
+date: "2023-09-26T00:00:00Z"
 external_link: ""
 image:
-  caption: Nanopore Day
+  caption: Avantor Seminar Nanopore Bergen,Norway
   focal_point: Smart
 links:
 - icon: linkedin
@@ -12,23 +12,19 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/CalderbankRosie/status/1663815488034467841/photo/1
+  url: https:https://twitter.com/andvenizelos/status/1706634029972226479/photo/1
 - icon: 
   icon_pack: 
-  name: Register Here!
-  url: https://nanoporetech.com/nanopore-day-stockholm-2023
-summary:  It's a full house at our Oxford Nanopore Day Event in Stockholm, Sweden. Great engagement and networking going on!
+  name: Program
+  url: https://k2info.w.uib.no/files/2023/09/K2nyttNanopore53.pdf
+summary:  Returning to Bergen, Norway brings back amazing memories of 7 years as a scientist. Thrilled to be back in my FAS role for this exciting Avantor scientific seminar. Dive deep into the world of science! Our ongoing seminar features talks from Marine Biologists, Cancer Genomics experts and more, all powered by Oxford Nanopore Technologies !
+
 tags:
 
-title: Nanopore Day Stockholm Sweden
+title: Avantor Seminar Nanopore Bergen, Norway
 
 ---
 
-Event overview:
-Hear about the latest technical updates for Oxford Nanopore Technologies as well as talks from local scientists about their latest work using nanopore technology.
+Avantor/VWR is arranging a seminar day in Bergen focused on nanopore sequencing on September 26th (program). Participation is free and lunch is included! Get inspired by the latest technical updates from Oxford Nanopore Technologies as well as talks from local scientists in Western Norway about their latest nanopore projects. Additionally, the seminar day is a great opportunity to network and collaborate with other nanopore users in the area.
 
-There will also be an opportunity to submit questions throughout the talks, which will be answered in the Q&A sessions following each presentation.
-
-Please note that this is an in-person event.
-
-There is no delegate fee for this event, but registration is required. Your place at this event will be confirmed via email from events@nanoporetech.com.
+Register by emailing frida.perry@avantorsciences.com by September 15th.
