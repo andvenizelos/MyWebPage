@@ -1,7 +1,7 @@
 ---
 date: "2016-04-27T00:00:00Z"
 external_link: ""
-image:
+image: '/nanoporeday/featured.jpeg'
   caption: Nanopore Day
   focal_point: Smart
 links:
