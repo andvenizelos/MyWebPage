@@ -1,7 +1,7 @@
 ---
 header:
   caption: ""
-title: Event
+title: Seminars ONT
 type: chapter
 view: 3
 ---
