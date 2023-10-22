@@ -12,7 +12,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https:https://twitter.com/andvenizelos/status/1706634029972226479/photo/1
+  url: https: https://twitter.com/andvenizelos/status/1706634029972226479/photo/1
 - icon: 
   icon_pack: 
   name: Program
