@@ -12,7 +12,7 @@ education:
   - course: BSc in Biological Applications and Technology
     institution: University of Ioannina, Greece
     year: 2011
-email: "andreas.venizelos@yahoo.com"
+email: 
 highlight_name: true
 organizations:
 - name: Oxford Nanopore Technologies
@@ -46,4 +46,4 @@ My professional background is grounded in the biomedical sciences, with a primar
 
 While I hail from Athens, Greece, my current residence is in Copenhagen :denmark:
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
