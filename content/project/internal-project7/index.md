@@ -28,6 +28,5 @@ title: SfE Journal Award Winner 2023
 
 ---
 
-Thankful and honored to accept the Best Paper of the Year Award from the Society for Endocrinology in Glasgow, Scotland! Delighted to contribute to raising awareness among clinicians and researchers about potential treatment options for high-grade Neuroendocrine neoplasms. A heartfelt thank you to editor Márta Korbonits MD, PhD, for the invitation. #Endocrinology #ResearchExcellence
 
 
