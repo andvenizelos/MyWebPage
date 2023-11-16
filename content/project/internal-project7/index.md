@@ -1,8 +1,8 @@
 ---
-date: "2023-10-05T00:00:00Z"
+date: "2023-11-14T00:00:00Z"
 external_link: ""
 image:
-  caption: BioNordika Nordic NGS Conference
+  caption: BfE Society for Endocrinology 2023
   focal_point: Smart
 links:
 - icon: linkedin
@@ -17,21 +17,17 @@ links:
   
 - icon: 
   icon_pack: 
-  name: Program
-  url: https://nordicngs.com/program
+  name: Journal Award
+  url: https://www.endocrinology.org/news/item/20062/congratulations-to-the-winners-of-the-sfe-journal-awards
   
   
-summary:  Excited to be at the BioNordika Denmark A/S NGS Nordic Meeting, discussing “What’s Missing Matters” by harnessing the power of long reads from Oxford Nanopore Technologies. Uncovering the hidden gems of genomics! #NGSNordics #Genomics #Longreads
+summary: The Society of Endocrinology has awarded ‘The molecular characteristics of high-grade gastroenteropancreatic neuroendocrine neoplasms’ by Andreas Venizelos et al. an SfE Journal Award for excellence in endocrine research and practice. https://ow.ly/qY7c50PgfJC
 tags:
 
-title: BioNordika Event Nordic NGS Conference
+title: SfE Journal Award 2023
 
 ---
 
-Oxford Nanopore has developed a new generation of DNA/RNA sequencing technology. It is the only sequencing technology that offers real-time analysis (for rapid insights), in fully scalable formats from the pocket-sized MinION to the high-throughput, population-scale PromethION — scale nanopore sequencing to suit any experimental needs. Further, the technology can analyse native DNA or RNA and sequence any length of fragment to achieve short - to ultra-long read lengths.
+Thankful and honored to accept the Best Paper of the Year Award from the Society for Endocrinology in
+Glasgow, Scotland! Delighted to contribute to raising awareness among clinicians and researchers about potential treatment options for high-grade Neuroendocrine neoplasms. A heartfelt thank you to editor Márta Korbonits MD, PhD, for the invitation. #Endocrinology #ResearchExcellence
 
-Traditional methods are only able to sequence short lengths of DNA which must then be reassembled. It is therefore difficult to sequence repetitive regions for accurate genome assemblies without gaps, resolve large structural variations, or differentiate isoforms.
-
-Nanopore sequencing is limited only by the length of the DNA/RNA fragment presented to the pore and can therefore span entire repetitive regions, resolve structural variants, and differentiate between different isoforms. The ability to sequence native DNA and RNA without the requirement for amplification, eliminates PCR bias and allows for the identification of base modifications, such as methylation, alongside nucleotide sequence.
-
-Abstracts; https://nordicngs.com/abstracts
