@@ -8,12 +8,12 @@ links:
 - icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://www.linkedin.com/feed/update/urn:li:activity:7115684726731878401/
+  url: https://www.linkedin.com/feed/update/urn:li:activity:7130496915661565952/
   
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/andvenizelos/status/1709925649195131098/photo/1
+  url: https://twitter.com/andvenizelos/status/1724732884253086106
   
 - icon: 
   icon_pack: 
@@ -28,5 +28,6 @@ title: SfE Journal Award Winner 2023
 
 ---
 
+Thankful and honored to accept the Best Paper of the Year Award from the Society for Endocrinology in Glasgow, Scotland! Delighted to contribute to raising awareness among clinicians and researchers about potential treatment options for high-grade Neuroendocrine neoplasms. A heartfelt thank you to editor Márta Korbonits MD, PhD, for the invitation. #Endocrinology #ResearchExcellence 🏆🔬
 
 
