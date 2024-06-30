@@ -15,13 +15,13 @@ links:
   name: Follow
   url: https://twitter.com/andvenizelos/status/1709925649195131098/photo/1
   
-- icon: 
+- icon:
   icon_pack: 
   name: Program
   url: https://nordicngs.com/program
   
   
-summary:  Excited to be at the BioNordika Denmark A/S NGS Nordic Meeting, discussing “What’s Missing Matters” by harnessing the power of long reads from Oxford Nanopore Technologies. Uncovering the hidden gems of genomics! #NGSNordics #Genomics #Longreads
+summary:  Excited to be at the BioNordika Denmark A/S NGS Nordic Meeting, discussing “What’s Missing Matters” by harnessing the power of long reads from Oxford Nanopore Technologies. Uncovering the hidden gems of genomics! #NGSNordics #Genomics #Longread
 tags:
 
 title: BioNordika Event Nordic NGS Conference
