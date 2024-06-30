@@ -20,7 +20,7 @@ links:
   name: Program
   url: https://k2info.w.uib.no/files/2023/09/K2nyttNanopore53.pdf
   
-summary:  Returning to Bergen, Norway brings back amazing memories of 7 years as a scientist. Thrilled to be back in my FAS role for this exciting Avantor scientific seminar. Dive deep into the world of science! Our ongoing seminar features talks from Marine Biologists, Cancer Genomics experts and more, all powered by Oxford Nanopore Technologies !
+summary:  Returning to Bergen, Norway brings back amazing memories of 7 years as a scientist. Thrilled to be back in my FAS role for this exciting Avantor scientific seminar. Dive deep into the world of science! Our ongoing seminar features talks from Marine Biologists, Cancer Genomics experts and more, all powered by Oxford Nanopore Technologies!
 
 tags:
 
