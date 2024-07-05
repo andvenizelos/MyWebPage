@@ -9,7 +9,7 @@ address:
 all_day: false
 authors: []
 date: "2024-04-23T11:00:00Z"
-date_end: "2024-04-06T16:00:00Z"
+date_end: "2024-04-23T16:00:00Z"
 event: “What You Are Missing Matters” Oxford Nanopore Technologies Day, Vilnius University
 event_url: https://www.linkedin.com/posts/dr-andreas-venizelos-297802ab_oxfordnanopore-seminar-vilnius-activity-7185633303297740800-695O?utm_source=share&utm_medium=member_desktop
 featured: false
@@ -21,10 +21,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/andvenizelos
-location: Vilnius University, Life Science Center, auditorium R401
+location: 
 projects:
 - internal-project9
-publishDate: "2024-04-06"
+publishDate: "2024-04-23"
 tags: []
 title: “What You Are Missing Matters” Oxford Nanopore Technologies Day, Vilnius University, Lithuania
 url_code: ""
