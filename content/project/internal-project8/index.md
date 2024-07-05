@@ -2,7 +2,7 @@
 date: "2024-03-20T00:00:00Z"
 external_link: ""
 image:
-  caption: Rigshospitalet 
+  caption: Rigshospitalet, Copenhagen DK
   focal_point: Smart
 links:
 - icon: linkedin
@@ -23,6 +23,4 @@ title: Rigshospitalet Achieves Breakthrough in CNS Tumor Classification
 
 ---
 
-Avantor/VWR is arranging a seminar day in Bergen focused on nanopore sequencing on September 26th (program). Participation is free and lunch is included! Get inspired by the latest technical updates from Oxford Nanopore Technologies as well as talks from local scientists in Western Norway about their latest nanopore projects. Additionally, the seminar day is a great opportunity to network and collaborate with other nanopore users in the area.
-
-Register by emailing frida.perry@avantorsciences.com by September 15th.
+Incredible advancements are taking place at Rigshospitalet Dept of Pathology! 🎉 We're now conducting ultra-fast deep CNS tumor classification during surgery, revolutionizing patient care. 🧠💥Massive gratitude to everyone who participated in our GridION Oxford Nanopore Technologies training. Let's continue pushing boundaries and shaping the future of healthcare together! 💪"
