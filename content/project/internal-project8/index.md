@@ -2,24 +2,24 @@
 date: "2024-03-20T00:00:00Z"
 external_link: ""
 image:
-  caption: Rigshospitalet Achieves Breakthrough in CNS Tumor Classification
+  caption: Rigshospitalet 
   focal_point: Smart
 links:
 - icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://www.linkedin.com/in/dr-andreas-venizelos-297802ab/recent-activity/all/
+  url: https://www.linkedin.com/posts/dr-andreas-venizelos-297802ab_medicalinnovation-cnsresearch-teamwork-activity-7182043471141060608-PMmO?utm_source=share&utm_medium=member_desktop
   
-- icon: x
+- icon: twitter
   icon_pack: fab
   name: Follow
   url: https://x.com/andvenizelos
   
-summary:  Returning to Bergen, Norway brings back amazing memories of 7 years as a scientist. Thrilled to be back in my FAS role for this exciting Avantor scientific seminar. Dive deep into the world of science! Our ongoing seminar features talks from Marine Biologists, Cancer Genomics experts and more, all powered by Oxford Nanopore Technologies!
+summary:  Remarkable progress is happening at Rigshospitalet's Dept of Pathology! 🎉 We're now performing rapid, in-depth CNS tumor classification during surgery, transforming patient care. 🧠💥 A huge thank you to all who took part in our GridION Oxford Nanopore Technologies training. Let's keep advancing and shaping the future of healthcare! 💪
 
 tags:
 
-title: Avantor Seminar Nanopore Bergen, Norway
+title: Rigshospitalet Achieves Breakthrough in CNS Tumor Classification
 
 ---
 
