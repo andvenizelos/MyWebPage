@@ -28,6 +28,6 @@ publishDate: "2024-04-23"
 tags: []
 title: “What You Are Missing Matters” Oxford Nanopore Technologies Day, Vilnius University, Lithuania
 url_code: ""
-url_pdf: ""
+url_pdf: "/uploads/Oxford Nanopore Technologies- Seminar- Lithuania.pdf"
 ---
 
