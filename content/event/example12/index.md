@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://x.com/andvenizelos
-location: 
+location: Arvo Ylpön katu 34, lecture room F212
 projects:
 - internal-project11
 publishDate: "2024-06-11"
