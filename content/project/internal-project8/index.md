@@ -1,9 +1,8 @@
 ---
-date: "2024-03-26T00:00:00Z"
+date: "2024-03-20T00:00:00Z"
 external_link: ""
 image:
-  caption: Revolutionizing Patient Care: Rigshospitalet Achieves Breakthrough 
-  in CNS Tumor Classification
+  caption: Rigshospitalet Achieves Breakthrough in CNS Tumor Classification
   focal_point: Smart
 links:
 - icon: linkedin
