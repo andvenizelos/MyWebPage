@@ -1,17 +1,17 @@
 ---
-abstract: “What You Are Missing Matters” Oxford Nanopore Technologies Day,Tampere University,Finland
+abstract: “What You Are Missing Matters” Oxford Nanopore Technologies Day,Latvian Biomedical Research and Study Centre, Riga
 address:
-  city: Tampere
-  country: Finland
-  postcode: 33520
-  region: Finland
+  city: Riga
+  country: Latvia
+  postcode: 
+  region: Latvia
   street: 
 all_day: false
 authors: []
-date: "2024-06-11T09:00:00Z"
-date_end: "2024-06-11T12:30:00Z"
-event: “What You Are Missing Matters” Oxford Nanopore Technologies Day,Tampere University,Finland
-event_url: https://www.linkedin.com/posts/dr-andreas-venizelos-297802ab_nanoporeday-tampereuniversity-innovation-activity-7206566445994897408-Ed0X?utm_source=share&utm_medium=member_desktop
+date: "2024-07-09T09:00:00Z"
+date_end: "2024-07-09T13:00:00Z"
+event: “What You Are Missing Matters” Oxford Nanopore Technologies Day,Latvian Biomedical Research and Study Centre, Riga
+event_url: https://www.linkedin.com/posts/dr-andreas-venizelos-297802ab_sessions-activity-7213855588743585792-uVwr?utm_source=share&utm_medium=member_desktop
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -21,13 +21,14 @@ links:
   icon_pack: fab
   name: Follow
   url: https://x.com/andvenizelos
-location: Arvo Ylpön katu 34, lecture room F212
+location: Latvian Biomedical Research and Study Centre; Rātsupītes iela 1, Kurzemes rajons, Rīga
+Register now
 projects:
-- internal-project11
+- 
 publishDate: "2024-06-11"
 tags: []
-title: “What You Are Missing Matters” Oxford Nanopore Technologies Day,Tampere University,Finland
+title: “What You Are Missing Matters” Oxford Nanopore Technologies Day,Latvian Biomedical Research and Study Centre, Riga
 url_code: ""
-url_pdf: ""
+url_pdf: "/uploads/SeminarRiga.pdf"
 ---
 
