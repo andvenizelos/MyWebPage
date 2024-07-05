@@ -9,12 +9,12 @@ links:
 - icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://www.linkedin.com/posts/dr-andreas-venizelos-297802ab_medicalinnovation-cnsresearch-teamwork-activity-7182043471141060608-PMmO?utm_source=share&utm_medium=member_desktop
+  url: https://www.linkedin.com/in/dr-andreas-venizelos-297802ab/recent-activity/all/
   
-- icon: twitter
+- icon: x
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/andvenizelos
+  url: https://x.com/andvenizelos
   
 summary:  Returning to Bergen, Norway brings back amazing memories of 7 years as a scientist. Thrilled to be back in my FAS role for this exciting Avantor scientific seminar. Dive deep into the world of science! Our ongoing seminar features talks from Marine Biologists, Cancer Genomics experts and more, all powered by Oxford Nanopore Technologies!
 
