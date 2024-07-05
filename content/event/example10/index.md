@@ -5,7 +5,7 @@ address:
   country: Lithuania
   postcode: 
   region: Lithuania
-  street: Vilnius University, Life Science Center, auditorium R401
+  street: 
 all_day: false
 authors: []
 date: "2024-04-23T11:00:00Z"
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/andvenizelos
-location: 
+location: Vilnius University, Life Science Center, auditorium R401
 projects:
 - internal-project9
 publishDate: "2024-04-23"
