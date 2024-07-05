@@ -22,9 +22,7 @@ links:
   name: Follow
   url: https://x.com/andvenizelos
 location: Latvian Biomedical Research and Study Centre; Rātsupītes iela 1, Kurzemes rajons, Rīga
-Register now
-projects:
-- 
+
 publishDate: "2024-06-11"
 tags: []
 title: “What You Are Missing Matters” Oxford Nanopore Technologies Day,Latvian Biomedical Research and Study Centre, Riga
