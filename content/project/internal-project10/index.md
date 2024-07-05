@@ -19,8 +19,8 @@ summary:  🌟 Thrilled to have joined the bioinformatics team at the Oxford Nan
 
 tags:
 
-title: London Calling 2024 Oxford Nanopore
+title: London Calling 2024 Oxford Nanopore Technologies
 
 ---
 
-🌟 What an amazing experience it was to be part of the bioinformatics team at the Oxford Nanopore Technologies London Calling event! Sharing this journey with our fantastic speakers and groundbreaking news was truly inspiring. Here's to pushing the boundaries of science and innovation together! hashtag#LondonCalling hashtag#Bioinformatics hashtag#Nanopore hashtag#Innovation hashtag#TeamWork hashtag#nanoporeconf
+🌟 What an amazing experience it was to be part of the bioinformatics team at the Oxford Nanopore Technologies London Calling event! Sharing this journey with our fantastic speakers and groundbreaking news was truly inspiring. Here's to pushing the boundaries of science and innovation together! #LondonCalling #Bioinformatics #Nanopore #Innovation #TeamWork #nanoporeconf
