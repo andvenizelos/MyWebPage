@@ -5,7 +5,7 @@ address:
   country: Finland
   postcode: 33520
   region: Finland
-  street: Arvo Ylpön katu 34, lecture room F212
+  street: 
 all_day: false
 authors: []
 date: "2024-06-11T09:00:00Z"
