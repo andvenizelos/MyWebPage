@@ -16,7 +16,7 @@ links:
   url: https://twitter.com/andvenizelos/
   
   
-summary:Incredible advancements are taking place at Rigshospitalet Dept of 
+summary:  Incredible advancements are taking place at Rigshospitalet Dept of 
 Pathology! We're now conducting ultra-fast deep CNS tumor classification post 
 surgery, revolutionizing patient care. Massive gratitude to everyone who 
 participated in our GridION Oxford Nanopore Technologies training. 
