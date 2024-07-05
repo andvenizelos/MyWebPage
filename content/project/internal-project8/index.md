@@ -23,4 +23,4 @@ title: Rigshospitalet Achieves Breakthrough in CNS Tumor Classification
 
 ---
 
-Incredible advancements are taking place at Rigshospitalet Dept of Pathology! 🎉 We're now conducting ultra-fast deep CNS tumor classification during surgery, revolutionizing patient care. 🧠💥Massive gratitude to everyone who participated in our GridION Oxford Nanopore Technologies training. Let's continue pushing boundaries and shaping the future of healthcare together! 💪"
+Incredible advancements are taking place at Rigshospitalet Dept of Pathology! 🎉 We're now conducting ultra-fast deep CNS tumor classification during surgery, revolutionizing patient care. 🧠💥Massive gratitude to everyone who participated in our GridION Oxford Nanopore Technologies training. Let's continue pushing boundaries and shaping the future of healthcare together! 💪
