@@ -23,4 +23,4 @@ title: “What You Are Missing Matters” Oxford Nanopore Technologies Day, Viln
 
 ---
 
-Had an incredible time at “What You Are Missing Matters” Oxford Nanopore Technologies Day, Vilnius University, Life Sciences Center! Grateful for the opportunity to share insights on Nanopore sequencing. Huge thanks to Mantas Šerelis for organizing and speakers Giancarlo Russo and Giedrius Steponaitis. Your enthusiasm is infectious! Let’s continue exploring Nanopore sequencing together. hashtag#Nanopore hashtag#WYMM hashtag#OxfordNanoporeTechnologies 🧬
+Had an incredible time at “What You Are Missing Matters” Oxford Nanopore Technologies Day, Vilnius University, Life Sciences Center! Grateful for the opportunity to share insights on Nanopore sequencing. Huge thanks to Mantas Šerelis for organizing and speakers Giancarlo Russo and Giedrius Steponaitis. Your enthusiasm is infectious! Let’s continue exploring Nanopore sequencing together. #Nanopore #WYMM #OxfordNanoporeTechnologies 🧬
