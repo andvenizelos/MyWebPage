@@ -28,6 +28,6 @@ publishDate: "2024-06-11"
 tags: []
 title: “What You Are Missing Matters” Oxford Nanopore Technologies Day,Tampere University,Finland
 url_code: ""
-url_pdf: ""
+url_pdf: "/uploads/TAU_Half day seminar 11 June copy.pdf"
 ---
 
