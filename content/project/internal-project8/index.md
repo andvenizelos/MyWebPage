@@ -16,16 +16,14 @@ links:
   url: https://twitter.com/andvenizelos/
   
   
-  
-summary: Remarkable progress is happening at Rigshospitalet's Dept of Pathology! 🎉 We're now performing rapid, in-depth CNS tumor classification post surgery, transforming patient care. 🧠💥 A huge thank you to all who took part in our GridION Oxford Nanopore Technologies training. Let's keep advancing and shaping the future of healthcare! 
+summary: Remarkable progress is happening at Rigshospitalet's Dept of Pathology! 🎉 We're now performing rapid, in-depth CNS tumor classification post surgery, transforming patient care. 🧠💥 A huge thank you to all who took part in our GridION Oxford Nanopore Technologies training. Let's keep advancing and shaping the future of healthcare!
 tags:
 
 title: Revolutionizing Patient Care: Rigshospitalet Achieves Breakthrough in CNS Tumor Classification
 
 ---
 
-🌟 Exciting News Alert! 🌟
-Incredible advancements are taking place at Rigshospitalet Dept of Pathology! 🎉 We're now conducting ultra-fast deep CNS tumor classification post surgery, revolutionizing patient care. 🧠💥
-Massive gratitude to everyone who participated in our GridION Oxford Nanopore Technologies training. Let's continue pushing boundaries and shaping the future of healthcare together! 💪
+Incredible advancements are taking place at Rigshospitalet Dept of Pathology! We're now conducting ultra-fast deep CNS tumor classification post surgery, revolutionizing patient care.
+Massive gratitude to everyone who participated in our GridION Oxford Nanopore Technologies training. Let's continue pushing boundaries and shaping the future of healthcare together!
 
 
