@@ -5,7 +5,7 @@ address:
   country: UK
   postcode: 
   region: UK
-  street: Old Billingsgate
+  street: 
 all_day: false
 authors: []
 date: "2024-05-22T09:00:00Z"
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://x.com/andvenizelos/status/1793345211050930200/photo/1
-location: 
+location: Old Billingsgate
 projects:
 - internal-project10
 publishDate: "2024-05-22"
