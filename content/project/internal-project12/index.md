@@ -15,7 +15,7 @@ links:
   name: Follow
   url: https://x.com/andvenizelos
   
-summary:  🌟 It's a privilege to do what you love! ❤️ Had an amazing time in Riga, Latvia, at our “What You Are Missing Matters” seminar by Oxford Nanopore Technologies at the Latvian Biomedical Research & Study Center. 
+summary: It's a privilege to do what you love! Had an amazing time in Riga, Latvia, at our “What You Are Missing Matters” seminar by Oxford Nanopore Technologies at the Latvian Biomedical Research & Study Center. 
 
 
 
@@ -25,4 +25,4 @@ title: “What You Are Missing Matters” Oxford Nanopore Technologies Day, BMC,
 
 ---
 
-🌟It is a privilege to do what you love! ❤️ What an amazing experience in Riga, Latvia, engaging with such a vibrant audience at our “What You Are Missing Matters” seminar by Oxford Nanopore Technologies at the Latvian Biomedical Research & Study centre. Your enthusiasm and curiosity made the event truly special. Looking forward to many more enlightening sessions and groundbreaking discoveries together! 🧬#PassionForScience #OxfordNanopore #Riga #Innovation
+🌟It is a privilege to do what you love! What an amazing experience in Riga, Latvia, engaging with such a vibrant audience at our “What You Are Missing Matters” seminar by Oxford Nanopore Technologies at the Latvian Biomedical Research & Study centre. Your enthusiasm and curiosity made the event truly special. Looking forward to many more enlightening sessions and groundbreaking discoveries together! 🧬#PassionForScience #OxfordNanopore #Riga #Innovation
