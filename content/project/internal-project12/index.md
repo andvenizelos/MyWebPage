@@ -2,7 +2,7 @@
 date: "2024-07-12T00:00:00Z"
 external_link: ""
 image:
-  caption: Latvian Biomedical Research and Study Center, Riga
+  caption: Biomedical Research and Study Center, Latvia, Riga
   focal_point: Smart
 links:
 - icon: linkedin
@@ -21,7 +21,7 @@ summary:  🌟 It's a privilege to do what you love! ❤️ Had an amazing time 
 
 tags:
 
-title: “What You Are Missing Matters” Oxford Nanopore Technologies Day,BMC, Latvia, Riga
+title: “What You Are Missing Matters” Oxford Nanopore Technologies Day, BMC, Latvia, Riga
 
 ---
 
