@@ -15,7 +15,7 @@ links:
   name: Follow
   url: https://x.com/andvenizelos
   
-summary:  🎉 Successful "What You Are Missing Matters" Oxford Nanopore Technologies Day at Tampere University! 🎉 Great engagement with our flow cell demonstration and insightful questions about nanopore technology. Thanks to everyone who participated and made this event a success!
+summary:  🌟 It was an honor to engage with such a vibrant audience at the “What You Are Missing Matters” seminar in Riga, Latvia, hosted by Oxford Nanopore Technologies at the Latvian Biomedical Research & Study Centre. Your enthusiasm and curiosity made the event exceptional. We look forward to many more enlightening sessions and groundbreaking discoveries together.
 
 
 
@@ -25,7 +25,4 @@ title: “What You Are Missing Matters” Oxford Nanopore Technologies Day, BMC 
 
 ---
 
-🎉 Another successful “What You Are Missing Matters”Oxford Nanopore Technologies Day at Tampere University, Finland! 🎉
-We had fantastic engagement with our demonstration on loading flow cells, and the audience was full of great questions about nanopore technology. It was inspiring to see such enthusiasm and curiosity!
-Thanks to everyone who joined us and made this event a success!
-#NanoporeDay #TampereUniversity #Innovation#Genomics
+🌟It is a privilege to do what you love! What an amazing experience in Riga, Latvia, engaging with such a vibrant audience at our “What You Are Missing Matters” seminar by Oxford Nanopore Technologies at the Latvian Biomedical Research & Study centre. Your enthusiasm and curiosity made the event truly special. Looking forward to many more enlightening sessions and groundbreaking discoveries together! #PassionForScience #OxfordNanopore #Riga #Innovation
