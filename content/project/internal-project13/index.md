@@ -2,7 +2,7 @@
 date: "2024-09-13T00:00:00Z"
 external_link: ""
 image:
-  caption: Haukeland University Hospital, Bergen Norway
+  caption: Haukeland University Hospital, Bergen, Norway
   focal_point: Smart
 links:
 - icon: linkedin
@@ -15,8 +15,7 @@ links:
   name: Follow
   url: https://x.com/andvenizelos
   
-summary:  Always a pleasure to return to the University of Bergen (UiB) , where I matured as a scientist during my PhD and postdoc years. 
-🎉This time, I had the opportunity to present the latest advances of Oxford Nanopore Technologies and share our success stories. Grateful for the warm welcome and the invitation ; looking forward to more inspiring discussions!
+summary:  Always a pleasure to return to the University of Bergen (UiB) , where I matured as a scientist during my PhD and postdoc years. This time, I had the opportunity to present the latest advances of Oxford Nanopore Technologies and share our success stories. Grateful for the warm welcome and the invitation. looking forward to more inspiring discussions!
 
 
 
