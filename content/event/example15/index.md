@@ -23,6 +23,7 @@ links:
   url: https://x.com/andvenizelos
 location: Auditorium 2 & 4, BB-Bygget Haukeland Universitetssjukehus - Jonas Lies vei 91. 5009 Bergen
 projects:
+- internal-project13
 publishDate: "2024-08-27"
 tags: []
 title: “What You Are Missing Matters” Oxford Nanopore Technologies Day, Haukeland University Hospital
