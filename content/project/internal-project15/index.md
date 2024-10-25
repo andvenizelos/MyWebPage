@@ -15,6 +15,11 @@ links:
   name: Follow
   url: https://x.com/andvenizelos
   
+- icon: 
+  icon_pack: 
+  name: Program
+  url: https://www.lrua2024.se/program/
+  
 summary:  What an amazing opportunity to present the power and ease of Nanopore Sequencing at the Long Read Sequencing Uppsala Conference! We demonstrated live sequencing on stage, along with real-time data analysis, in front of an incredible audience full of energy and enthusiasm. Proud to be part of such an innovative and inspiring event!
 
 
