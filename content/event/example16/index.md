@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://x.com/andvenizelos
-location: Mūkusalas iela 3, Zemgales priekšpilsēta, Rīga, LV-1423, Latvia National Library of Latvia
+location: Mūkusalas iela 3, Zemgales priekšpilsēta, Rīga, LV-1423, National Library of Latvia
 projects:
 - internal-project14
 publishDate: "2024-10-11"
