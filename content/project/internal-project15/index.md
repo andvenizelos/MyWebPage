@@ -26,7 +26,7 @@ summary:  What an amazing opportunity to present the power and ease of Nanopore 
 
 tags:
 
-title: Long-Read Sequencing Conference Uppsala, Sweden #LRUA24
+title: Ease of nanopore sequencing - Long-Read Sequencing Conference Uppsala, 2024
 
 ---
 
