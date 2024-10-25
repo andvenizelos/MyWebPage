@@ -15,10 +15,7 @@ links:
   name: Follow
   url: https://x.com/andvenizelos
   
-summary:  We’re live at the Precision Medicine Networking Forum in Riga, Latvia!
-Curious about how Oxford Nanopore Technologies is shaping the future of personalized medicine? 🧬 Stop by our booth for a hands-on look at real-time sequencing and discover how we’re pushing the boundaries of precision healthcare.
-
-Don’t miss out—come chat with us and see the future of genomics in action! 🔬
+summary:  We’re live at the Precision Medicine Networking Forum in Riga, Latvia! Curious about how Oxford Nanopore Technologies is shaping the future of personalized medicine? 🧬 Stop by our booth for a hands-on look at real-time sequencing and discover how we’re pushing the boundaries of precision healthcare. Don’t miss out—come chat with us and see the future of genomics in action! 🔬
 
 
 
