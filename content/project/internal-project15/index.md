@@ -26,7 +26,7 @@ summary:  What an amazing opportunity to present the power and ease of Nanopore 
 
 tags:
 
-title: Ease of nanopore sequencing - Long-Read Sequencing Conference Uppsala, 2024
+title: Ease of Nanopore Sequencing - Long-Read Sequencing Conference Uppsala, 2024
 
 ---
 
