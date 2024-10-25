@@ -28,6 +28,6 @@ publishDate: "2024-10-11"
 tags: []
 title: Precision Medicine Networking Riga, Latvia PMNET24
 url_code: ""
-url_pdf: """
+url_pdf: ""
 ---
 
