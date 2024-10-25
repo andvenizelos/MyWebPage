@@ -29,5 +29,4 @@ title: Precision Medicine Networking Riga, Latvia PMNET24
 ---
 
 We’re live from the Precision Medicine Networking Forum in Riga, Latvia!
-Interested in how Oxford Nanopore Technologies is driving the future of personalized medicine? 🧬 Visit our booth to experience real-time sequencing firsthand and learn about our latest advancements in precision healthcare.
-Don’t miss the chance to connect with us and witness the future of genomics in action!
+Interested in how Oxford Nanopore Technologies is driving the future of personalized medicine? Visit our booth to experience real-time sequencing firsthand and learn about our latest advancements in precision healthcare. Don’t miss the chance to connect with us and witness the future of genomics in action!
