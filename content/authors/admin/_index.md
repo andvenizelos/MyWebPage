@@ -17,7 +17,7 @@ highlight_name: true
 organizations:
 - name: Oxford Nanopore Technologies
   url: https://nanoporetech.com/
-role: FIELD APPLICATIONS SCIENTIST @ OXFORD NANOPORE TECHNOLOGIES
+role: SENIOR FIELD APPLICATIONS SCIENTIST @ OXFORD NANOPORE TECHNOLOGIES
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,7 +38,7 @@ superuser: true
 title: Dr. Andreas Venizelos
 ---
 
-I currently hold the position of Field Applications Scientist at Oxford Nanopore Technologies, where I contribute my expertise in the field of genomics and sequencing technology. Prior to this role, I served as a dedicated Postdoctoral Researcher in Cancer Genomics at the University of Bergen and Haukeland University Hospital, actively participating in the Academy for Young Medical Researchers based at the K.G. Jebsen Center for Genome-Directed Therapy in Cancer.
+I currently hold the position of a Senior Field Applications Scientist at Oxford Nanopore Technologies, where I contribute my expertise in the field of genomics and sequencing technology. Prior to this role, I served as a dedicated Postdoctoral Researcher in Cancer Genomics at the University of Bergen and Haukeland University Hospital, actively participating in the Academy for Young Medical Researchers based at the K.G. Jebsen Center for Genome-Directed Therapy in Cancer.
 
 My career has been marked by a profound commitment to research and a continuous pursuit of diverse opportunities to expand my knowledge and experience. My journey began in the Medical Oncogenetics Department at the 401 Military Hospital of Athens. Subsequently, I ventured to Germany, where I assumed the role of a Senior Medical Technologist at Centogene, AG, Rostock, Berlin, a renowned diagnostic company specializing in rare diseases.
 
